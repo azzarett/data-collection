@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "record": {
+      "kind": "artist",
+      "period": "week",
+      "rank": 1,
+      "artist_name": "BTS",
+      "track_name": null,
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+      "listens": -1,
+      "from_ts": 1794182400,
+      "to_ts": 1794787200
+    },
+    "errors": [
+      "listens: positive_integer"
+    ],
+    "case": "negative listens"
+  },
+  {
+    "index": 1,
+    "record": {
+      "kind": "artist",
+      "period": "day",
+      "rank": 1,
+      "artist_name": "BTS",
+      "track_name": null,
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+      "listens": 508836,
+      "from_ts": 1794182400,
+      "to_ts": 1794787200
+    },
+    "errors": [
+      "period: isin(['week', 'month'])"
+    ],
+    "case": "unknown period"
+  },
+  {
+    "index": 2,
+    "record": {
+      "kind": "artist",
+      "period": "week",
+      "rank": 1,
+      "artist_name": "BTS",
+      "track_name": null,
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+      "listens": 508836,
+      "from_ts": 1794182400,
+      "to_ts": 1794182399
+    },
+    "errors": [
+      "check_window"
+    ],
+    "case": "reversed window"
+  },
+  {
+    "index": 3,
+    "record": {
+      "kind": "recording",
+      "period": "week",
+      "rank": 1,
+      "artist_name": "BTS",
+      "track_name": null,
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+      "listens": 508836,
+      "from_ts": 1794182400,
+      "to_ts": 1794787200
+    },
+    "errors": [
+      "check_track"
+    ],
+    "case": "missing title"
+  }
+]

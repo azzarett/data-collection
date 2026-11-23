@@ -1,0 +1,301 @@
+{
+  "snapshot_sha256": "4f1b3add0b9598ba3699502bcc400915c17f194b103252fab1786c0000713487",
+  "messages_sha256": "e6bcfe436f62de8334e91e0e95c720a3e4187704240d1db3c328ca149b2cd284",
+  "counts": {
+    "collected": 400,
+    "published": 400,
+    "consumed": 400,
+    "valid": 400,
+    "invalid": 0,
+    "cleaned": 400,
+    "stored": 400
+  },
+  "cleaning": {
+    "duplicates_removed": 0,
+    "name_fallback_rows": 35,
+    "normalized_text_cells": 0,
+    "missing_before": {
+      "kind": 0,
+      "period": 0,
+      "rank": 0,
+      "artist_name": 0,
+      "track_name": 200,
+      "mbid": 35,
+      "listens": 0,
+      "from_ts": 0,
+      "to_ts": 0
+    }
+  },
+  "database": {
+    "loads": [
+      {
+        "inserted": 400,
+        "stored": 400,
+        "sha256": "c9be4747e868dd9739b4bbfacf0b99663db01798b7dd3a7f0cddebeb6158bd24"
+      },
+      {
+        "inserted": 0,
+        "stored": 400,
+        "sha256": "c9be4747e868dd9739b4bbfacf0b99663db01798b7dd3a7f0cddebeb6158bd24"
+      }
+    ],
+    "queries": [
+      {
+        "sql": "SELECT COUNT(*) AS stored FROM chart_entries",
+        "columns": [
+          "stored"
+        ],
+        "rows": [
+          [
+            400
+          ]
+        ]
+      },
+      {
+        "sql": "SELECT kind, period, COUNT(*) AS entries, COUNT(DISTINCT entity_key) AS entities,\n       MIN(rank) AS first_rank, MAX(rank) AS last_rank, SUM(listens) AS chart_listens\nFROM chart_entries GROUP BY kind, period ORDER BY kind, period",
+        "columns": [
+          "kind",
+          "period",
+          "entries",
+          "entities",
+          "first_rank",
+          "last_rank",
+          "chart_listens"
+        ],
+        "rows": [
+          [
+            "artist",
+            "month",
+            100,
+            100,
+            1,
+            100,
+            8340657
+          ],
+          [
+            "artist",
+            "week",
+            100,
+            100,
+            1,
+            100,
+            2042409
+          ],
+          [
+            "recording",
+            "month",
+            100,
+            81,
+            1,
+            100,
+            7570412
+          ],
+          [
+            "recording",
+            "week",
+            100,
+            97,
+            1,
+            100,
+            1778518
+          ]
+        ]
+      },
+      {
+        "sql": "SELECT kind, period, artist_name, track_name, listens FROM chart_entries\nWHERE rank = 1 ORDER BY kind, period",
+        "columns": [
+          "kind",
+          "period",
+          "artist_name",
+          "track_name",
+          "listens"
+        ],
+        "rows": [
+          [
+            "artist",
+            "month",
+            "BTS",
+            null,
+            738385
+          ],
+          [
+            "artist",
+            "week",
+            "BTS",
+            null,
+            508836
+          ],
+          [
+            "recording",
+            "month",
+            "BTS",
+            "SWIM",
+            291140
+          ],
+          [
+            "recording",
+            "week",
+            "BTS",
+            "SWIM",
+            227373
+          ]
+        ]
+      },
+      {
+        "sql": "SELECT COUNT(*) AS duplicated_positions FROM (\n    SELECT 1 FROM chart_entries GROUP BY kind, period, start_utc, end_utc, rank HAVING COUNT(*) > 1\n)",
+        "columns": [
+          "duplicated_positions"
+        ],
+        "rows": [
+          [
+            0
+          ]
+        ]
+      },
+      {
+        "sql": "PRAGMA integrity_check",
+        "columns": [
+          "integrity_check"
+        ],
+        "rows": [
+          [
+            "ok"
+          ]
+        ]
+      }
+    ]
+  },
+  "analysis": {
+    "rows": 400,
+    "charts": {
+      "artist_week": {
+        "rows": 100,
+        "start_utc": "2026-11-09T00:00:00Z",
+        "end_utc": "2026-11-16T00:00:00Z",
+        "window_days": 7.0,
+        "total_listens": 2042409,
+        "top_10_share": 0.45845714545911226,
+        "median_listens": 11166.0,
+        "median_listens_per_day": 1595.1428571428573,
+        "distinct_artist_names": 96,
+        "distinct_entities": 100,
+        "leader": {
+          "name": "BTS",
+          "rank": 1,
+          "listens": 508836,
+          "listens_per_day": 72690.85714285714,
+          "chart_share": 0.24913521238889957
+        }
+      },
+      "artist_month": {
+        "rows": 100,
+        "start_utc": "2026-10-01T00:00:00Z",
+        "end_utc": "2026-11-01T00:00:00Z",
+        "window_days": 31.0,
+        "total_listens": 8340657,
+        "top_10_share": 0.29606900271765163,
+        "median_listens": 62239.0,
+        "median_listens_per_day": 2007.7096774193546,
+        "distinct_artist_names": 97,
+        "distinct_entities": 100,
+        "leader": {
+          "name": "BTS",
+          "rank": 1,
+          "listens": 738385,
+          "listens_per_day": 23818.870967741936,
+          "chart_share": 0.08852839770296272
+        }
+      },
+      "recording_week": {
+        "rows": 100,
+        "start_utc": "2026-11-09T00:00:00Z",
+        "end_utc": "2026-11-16T00:00:00Z",
+        "window_days": 7.0,
+        "total_listens": 1778518,
+        "top_10_share": 0.5266654596692302,
+        "median_listens": 3739.0,
+        "median_listens_per_day": 534.1428571428571,
+        "distinct_artist_names": 23,
+        "distinct_entities": 97,
+        "leader": {
+          "name": "SWIM · BTS",
+          "rank": 1,
+          "listens": 227373,
+          "listens_per_day": 32481.85714285714,
+          "chart_share": 0.1278440814205985
+        }
+      },
+      "recording_month": {
+        "rows": 100,
+        "start_utc": "2026-10-01T00:00:00Z",
+        "end_utc": "2026-11-01T00:00:00Z",
+        "window_days": 31.0,
+        "total_listens": 7570412,
+        "top_10_share": 0.29295314442595727,
+        "median_listens": 33500.5,
+        "median_listens_per_day": 1080.6612903225805,
+        "distinct_artist_names": 17,
+        "distinct_entities": 81,
+        "leader": {
+          "name": "SWIM · BTS",
+          "rank": 1,
+          "listens": 291140,
+          "listens_per_day": 9391.612903225807,
+          "chart_share": 0.038457616309389764
+        }
+      }
+    },
+    "comparisons": {
+      "artist": {
+        "matched": 92,
+        "week_only": 8,
+        "month_only": 8,
+        "union": 108,
+        "jaccard": 0.8518518518518519,
+        "median_absolute_rank_change": 5.0,
+        "largest_weekly_gain": {
+          "name": "Jane Remover",
+          "positions": 43,
+          "week": 51,
+          "month": 94
+        }
+      },
+      "recording": {
+        "matched": 76,
+        "week_only": 21,
+        "month_only": 5,
+        "union": 102,
+        "jaccard": 0.7450980392156863,
+        "median_absolute_rank_change": 14.0,
+        "largest_weekly_gain": {
+          "name": "Running Wild · JIN",
+          "positions": 58,
+          "week": 38,
+          "month": 96
+        }
+      }
+    },
+    "filtered_weekly_recordings": 20,
+    "weekly_recording_filter_median_listens_per_day": 534.1428571428571,
+    "figure_captions": {
+      "artists.png": "BTS led the week chart with 24.9% of listens among the retained chart entries. BTS led the month chart with 8.9% of listens among the retained chart entries.",
+      "recordings.png": "SWIM · BTS led the week chart with 32,481.9 listens per day. SWIM · BTS led the month chart with 9,391.6 listens per day.",
+      "cross_window.png": "The first 10 ranks for artists captured 45.8% of the weekly chart and 29.6% of the monthly chart. 92 of 108 distinct charted artists appeared in both lists. The first 10 ranks for recordings captured 52.7% of the weekly chart and 29.3% of the monthly chart. 76 of 102 distinct charted recordings appeared in both lists."
+    }
+  },
+  "data_types": {
+    "kind": "object",
+    "period": "object",
+    "start_utc": "object",
+    "end_utc": "object",
+    "rank": "int64",
+    "artist_name": "object",
+    "track_name": "object",
+    "mbid": "object",
+    "entity_key": "object",
+    "listens": "int64",
+    "listens_per_day": "float64"
+  },
+  "schema_columns": 11,
+  "demo_rejected": 4
+}

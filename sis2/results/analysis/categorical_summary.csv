@@ -1,0 +1,21 @@
+kind,period,field,non_null_count,unique_count,most_frequent,frequency,tied_modes
+artist,week,kind,100,1,artist,100,1
+artist,week,period,100,1,week,100,1
+artist,week,artist_name,100,96,BTS,2,4
+artist,week,track_name,0,0,,0,0
+artist,week,entity_key,100,100,mbid:012151a8-0f9a-44c9-997f-ebd68b5389f9,1,100
+artist,month,kind,100,1,artist,100,1
+artist,month,period,100,1,month,100,1
+artist,month,artist_name,100,97,BTS,2,3
+artist,month,track_name,0,0,,0,0
+artist,month,entity_key,100,100,mbid:012151a8-0f9a-44c9-997f-ebd68b5389f9,1,100
+recording,week,kind,100,1,recording,100,1
+recording,week,period,100,1,week,100,1
+recording,week,artist_name,100,23,BTS,44,1
+recording,week,track_name,100,93,Killin' It Girl (feat. GloRilla),3,1
+recording,week,entity_key,100,97,mbid:079a54bb-1a59-4e40-8456-7695b644d059,2,3
+recording,month,kind,100,1,recording,100,1
+recording,month,period,100,1,month,100,1
+recording,month,artist_name,100,17,BTS,57,1
+recording,month,track_name,100,77,SWIM,4,1
+recording,month,entity_key,100,81,mbid:079a54bb-1a59-4e40-8456-7695b644d059,2,19

@@ -1,0 +1,211 @@
+kind,entity_key,week,month,name,rank_change
+artist,mbid:012151a8-0f9a-44c9-997f-ebd68b5389f9,87,68,Imagine Dragons,-19
+artist,mbid:0383dadf-2a4e-4d10-a46a-e9e041da8eb3,57,55,Queen,-2
+artist,mbid:056e4f3e-d505-4dad-8ec1-d04f521cbb56,27,28,Daft Punk,1
+artist,mbid:0743b15a-3c32-48c8-ad58-cb325350befa,,97,blink‐182,
+artist,mbid:074e3847-f67f-49f9-81f1-8c8cea147e8e,41,43,Bring Me the Horizon,2
+artist,mbid:084308bd-1654-436f-ba03-df6697104e19,47,39,Green Day,-8
+artist,mbid:09720eec-3871-49d5-932d-eb7542768cd3,5,9,Jin,4
+artist,mbid:09887aa7-226e-4ecc-9a0c-02d2ae5777e1,,84,Carly Rae Jepsen,
+artist,mbid:0d79fe8e-ba27-4859-bb8c-2f255f346853,1,1,BTS,0
+artist,mbid:164f0d73-1234-4e2c-8743-d77bf2191051,14,13,Ye,-1
+artist,mbid:1882fe91-cdd9-49c9-9956-8e06a3810bd4,72,74,Sabrina Carpenter,2
+artist,mbid:1c26f82c-b35d-4c8e-a1f4-9c20747495c9,30,26,Toby Fox,-4
+artist,mbid:20244d07-534f-4eff-b4d4-930878889970,16,14,Taylor Swift,-2
+artist,mbid:23c8056b-ee13-4cfc-a772-2f5292e35bb5,6,6,Jung Kook,0
+artist,mbid:260b6184-8828-48eb-945c-bc4cb6fc34ca,34,29,Charli xcx,-5
+artist,mbid:2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2,15,23,GloRilla,8
+artist,mbid:2baf3276-ed6a-4349-8d2e-f4601e7b2167,100,96,Playboi Carti,-4
+artist,mbid:355cc194-b8db-4af2-8678-c7ad54213f4b,24,38,Latto,14
+artist,mbid:381086ea-f511-4aba-bdf9-71c753dc5077,21,18,Kendrick Lamar,-3
+artist,mbid:396a9525-0994-4542-b480-c4587feeb476,,50,Tinashe,
+artist,mbid:44cf61b8-5197-448a-b82b-cef6ee89fac5,49,54,Paramore,5
+artist,mbid:45a663b5-b1cb-4a91-bff6-2bef7bbfdd76,96,,Britney Spears,
+artist,mbid:48262e82-db9f-4a92-b650-dfef979b73ec,81,89,Future,8
+artist,mbid:4e4ebde4-0c56-4dec-844b-6c73adcdd92d,92,,Juice WRLD,
+artist,mbid:516cef4d-0718-4007-9939-f9b38af3f784,44,66,Fall Out Boy,22
+artist,mbid:5441c29d-3602-4898-b1a1-b77fa23b8e50,75,64,David Bowie,-11
+artist,mbid:58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9,7,8,RM,1
+artist,mbid:5b11f4ce-a62d-471e-81fc-a69a8278c7da,45,44,Nirvana,-1
+artist,mbid:63aa26c3-d59b-4da4-84ac-716b54f1ef4d,25,22,Tame Impala,-3
+artist,mbid:650e7db6-b795-4eb5-a702-5ea2fc46c848,46,47,Lady Gaga,1
+artist,mbid:65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab,59,51,Metallica,-8
+artist,mbid:66fc5bf8-daa4-4241-b378-9bc9077939d2,69,62,Tool,-7
+artist,mbid:67f66c07-6e61-4026-ade5-7e782fad3a5d,,93,Foo Fighters,
+artist,mbid:6897b46a-9236-4480-9ed7-300f6b85d62f,76,59,Ninajirachi,-17
+artist,mbid:69158f97-4c07-4c4e-baf8-4e4ab1ed666e,61,61,Boards of Canada,0
+artist,mbid:6925db17-f35e-42f3-a4eb-84ee6bf5d4b0,20,16,Olivia Rodrigo,-4
+artist,mbid:69ee3720-a7cb-4402-b48d-a02c366f2bcf,70,57,The Cure,-13
+artist,mbid:6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f,84,79,Dua Lipa,-5
+artist,mbid:6fe07aa5-fec0-4eca-a456-f29bff451b04,89,92,Weezer,3
+artist,mbid:73e5e69d-3554-40d8-8516-00cb38737a1c,73,73,Rihanna,0
+artist,mbid:7441014f-f8f5-494f-81db-ff166fbc078d,94,91,PinkPantheress,-3
+artist,mbid:7527f6c2-d762-4b88-b5e2-9244f1e34c46,35,41,Deftones,6
+artist,mbid:79239441-bfd5-4981-a70c-55c3f15c1287,63,75,Madonna,12
+artist,mbid:7dc8f5bd-9d0b-4087-9f73-dc164950bbd8,60,95,Queens of the Stone Age,35
+artist,mbid:8264722b-df00-467a-858e-5c97cda169c9,97,78,Joji,-19
+artist,mbid:83096042-3785-481e-8843-dee69f1aad12,11,12,V,1
+artist,mbid:83d91898-7763-47d7-b03b-b92132375c47,29,27,Pink Floyd,-2
+artist,mbid:8538e728-ca0b-4321-b7e5-cff6565dd4c0,85,85,Depeche Mode,0
+artist,mbid:875203e1-8e58-4b86-8dcb-7190faf411c5,,99,J. Cole,
+artist,mbid:89aa5ecb-59ad-46f5-b3eb-2d424e941f19,53,63,Bad Bunny,10
+artist,mbid:8bfac288-ccc5-448d-9573-c33ea2aa5c30,52,52,Red Hot Chili Peppers,0
+artist,mbid:9058d01e-8afc-47a4-8664-621fb5f159c0,99,67,Slayyyter,-32
+artist,mbid:96855c21-b832-4366-ba12-0d2330c36a86,93,80,Phoebe Bridgers,-13
+artist,mbid:9c9f1380-2516-4fc9-a3e6-f9f61941d090,39,40,Muse,1
+artist,mbid:9fff2f8a-21e6-47de-a2b8-7f449929d43f,26,30,Drake,4
+artist,mbid:a0723a3c-4135-438e-85c5-012712144ede,90,,Don Toliver,
+artist,mbid:a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432,68,,U2,
+artist,mbid:a466c2a2-6517-42fb-a160-1087c3bafd9f,80,71,Slipknot,-9
+artist,mbid:a6c6897a-7415-4f8d-b5a5-3a5e05f3be67,32,25,twenty one pilots,-7
+artist,mbid:a74b1b7f-71a5-4011-9441-d0b5e4122711,12,11,Radiohead,-1
+artist,mbid:ab1a3f85-e0ea-470a-af5c-175447ae774c,40,45,underscores,5
+artist,mbid:ac865b2e-bba8-4f5a-8756-dd40d5e39f46,,98,Korn,
+artist,mbid:ada7a83c-e3e1-40f1-93f9-3e73dbc9298a,37,42,Arctic Monkeys,5
+artist,mbid:afb680f2-b6eb-4cd7-a70b-a63b25c763d5,82,88,Bruno Mars,6
+artist,mbid:b071f9fa-14b0-4217-8e97-eb41da73f598,,90,The Rolling Stones,
+artist,mbid:b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d,23,20,The Beatles,-3
+artist,mbid:b2d122f9-eadb-4930-a196-8f221eeb0c66,83,86,Rammstein,3
+artist,mbid:b3977da4-f899-4328-921b-ecc599a5618a,4,4,j‐hope,0
+artist,mbid:b7539c32-53e7-4908-bda3-81449c367da6,58,60,Lana Del Rey,2
+artist,mbid:b7ffd2af-418f-4be2-bdd1-22f8b48613da,50,56,Nine Inch Nails,6
+artist,mbid:b95ce3ff-3d05-4e87-9e01-c97b66af13d4,28,33,Eminem,5
+artist,mbid:bd13909f-1c29-4c27-a874-d4aaf27c5b1a,77,69,Fleetwood Mac,-8
+artist,mbid:c07f0676-9143-4217-8a9f-4c26bd636f13,22,24,My Chemical Romance,2
+artist,mbid:c8b03190-306c-4120-bb0b-6f2ebfc06ea9,19,21,The Weeknd,2
+artist,mbid:cc0b7089-c08d-4c10-b6b0-873582c17fd6,43,31,System of a Down,-12
+artist,mbid:cc197bad-dc9c-440d-a5b5-d52ba2e14234,48,46,Coldplay,-2
+artist,mbid:d2582c77-6b0f-4b2f-802f-8f3cad1a5fec,13,7,Jimin,-6
+artist,mbid:e028fab5-39ae-4ed9-b8c2-c4344d88b171,3,15,Die drei ???,12
+artist,mbid:e134b52f-2e9e-4734-9bc3-bea9648d1fa1,78,87,Ado,9
+artist,mbid:e21857d5-3256-4547-afb3-4b6ded592596,42,37,Gorillaz,-5
+artist,mbid:e4a51f17-a57b-47b1-b37b-f552d0f8e9e6,71,58,Travis Scott,-13
+artist,mbid:e520459c-dff4-491d-a6e4-c97be35e0044,86,76,Frank Ocean,-10
+artist,mbid:e941e097-0f9e-496d-a381-dd74a953682c,62,70,박효신,8
+artist,mbid:f09d2950-e3c6-47b2-b21c-2bad2cd3f616,2,2,Agust D,0
+artist,mbid:f181961b-20f7-459e-89de-920ef03c7ed0,54,49,The Strokes,-5
+artist,mbid:f22942a1-6f70-4f48-866e-238cb2308fbd,66,82,Aphex Twin,16
+artist,mbid:f27ec8db-af05-4f36-916e-3d57f91ecf5e,38,34,Michael Jackson,-4
+artist,mbid:f40856e6-079f-4a0a-916e-9e6a5e04f646,,65,ADÉLA,
+artist,mbid:f4a31f0a-51dd-4fa7-986d-3095c40c5ed9,91,81,Evanescence,-10
+artist,mbid:f4abc0b5-3f7a-4eff-8f78-ac078dbce533,56,48,Billie Eilish,-8
+artist,mbid:f4b6e451-5dce-4842-a555-f793892299b3,51,94,Jane Remover,43
+artist,mbid:f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387,31,35,Ariana Grande,4
+artist,mbid:f58384a4-2ad2-4f24-89c5-c7b74ae1cce7,79,,King Gizzard & the Lizard Wizard,
+artist,mbid:f59c5520-5f46-4d2c-b2c4-822eabf53419,10,3,Linkin Park,-7
+artist,mbid:f6beac20-5dfe-4d1f-ae02-0b0a740aafd6,64,53,"Tyler, The Creator",-11
+artist,mbid:fa58cf24-0e44-421d-8519-8bf461dcfaa5,88,,Mitski,
+artist,mbid:fac55e3c-d459-45ed-9f9f-f5078d3b3423,33,36,C418,3
+artist,mbid:fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68,65,32,Fontaines D.C.,-33
+artist,"name:[""bangtantv"",""""]",67,,bangtantv,
+artist,"name:[""bts"",""""]",8,5,BTS,-3
+artist,"name:[""die drei ???"",""""]",36,,Die drei ???,
+artist,"name:[""j-hope"",""""]",55,72,j-hope,17
+artist,"name:[""j-hope, glorilla"",""""]",18,17,"j-hope, GloRilla",-1
+artist,"name:[""jung kook"",""""]",98,100,Jung Kook,2
+artist,"name:[""jung kook, latto"",""""]",74,77,"Jung Kook, Latto",3
+artist,"name:[""rm"",""""]",17,19,RM,2
+artist,"name:[""rm, youjeen"",""""]",9,10,"RM, Youjeen",1
+artist,"name:[""v, park hyo shin"",""""]",95,83,"V, Park Hyo Shin",-12
+recording,mbid:017935ba-3241-455d-9747-1ffefe6b446d,76,86,NORMAL (instrumental) · BTS,10
+recording,mbid:057fb67c-9aa9-405d-9bc0-0d14cf9ca3e0,91,99,IDOL · BTS,8
+recording,mbid:059a2781-f733-467a-be36-769d810571af,69,92,People · Agust D,23
+recording,mbid:079a54bb-1a59-4e40-8456-7695b644d059,16,19,해금 · Agust D,3
+recording,mbid:19da6aed-b596-4216-b7e6-2b0d3c84ab04,63,,ㅠㅠ (Credit Roll) · RM,
+recording,mbid:1d6222e0-77eb-4047-b4fb-045a0c5636d3,5,6,2.0 · BTS,1
+recording,mbid:2070aff4-5a79-4772-b08e-254a0832eb64,,64,Like Crazy · Jimin,
+recording,mbid:21ca6993-c499-408b-babe-1ca6d370cfe3,98,85,Still With You · Jung Kook,-13
+recording,mbid:22d90ef6-04dc-4ab6-9fd5-5ee8fa52e102,41,54,RUN · BTS,13
+recording,mbid:24909119-fb10-416b-b8d4-fd9016f75033,10,10,Into the Sun · BTS,0
+recording,mbid:24ba3311-e337-46de-a778-13c490cf2f3d,93,79,Hate You · Jung Kook,-14
+recording,mbid:25470481-3b01-4375-874e-1c6202cf4300,97,97,Permission to Dance · BTS,0
+recording,mbid:25986edb-cebf-4e19-bc49-131dfd7d1eed,90,,Intro ; Dt sugA · Agust D feat. DJ Friz,
+recording,mbid:27e95178-49ac-47a1-8b4c-540c77982680,46,66,FAKE LOVE · BTS,20
+recording,mbid:283bbb04-a6f5-42ca-8dd3-3ef7405e73b8,87,,Danger · BTS,
+recording,mbid:2ce03059-d0a9-4b10-bec6-de779d6f5fe9,14,16,Please · BTS,2
+recording,mbid:2d5da8a7-aa96-4af5-b4b2-a4fd6746842c,68,75,SWIM with V (electronic remix) · BTS,7
+recording,mbid:346c1f7c-a41f-48da-b2b7-7d2245364e37,74,,Still Life · RM with Anderson .Paak,
+recording,mbid:366231d3-fee2-4600-a589-bf2976e36462,71,,140503 at dawn · Agust D,
+recording,mbid:368c2a37-5bb2-42ee-bd34-a5761ca552fc,,93,Too Sad to Dance · Jung Kook,
+recording,mbid:370cb956-910e-4fde-87b4-fdce053168e9,7,9,Aliens · BTS,2
+recording,mbid:38f1f272-d7e8-4ae7-93ff-3e574eeef484,56,69,Blood Sweat & Tears - Live · BTS,13
+recording,mbid:3d651fa9-dbd2-447d-aef6-37c8cecc8ab8,42,60,Yes or No · Jung Kook,18
+recording,mbid:425ca92f-0db9-4c9a-806c-54ea4cd88613,88,76,Euphoria · BTS,-12
+recording,mbid:44147ea1-e4fb-46c9-a470-3839bdc248d0,,89,Rebirth (intro) · Jimin,
+recording,mbid:4a89a693-a5a7-4348-9cf6-718aad1667fb,26,44,Standing Next to You · Jung Kook,18
+recording,mbid:4b9a186c-68ec-4207-86df-32f9e020707c,40,59,SWIM with SUGA (melodic techno remix) · BTS,19
+recording,mbid:4e7bfe28-623f-4123-b688-e55ef346b8fe,39,50,DNA · BTS,11
+recording,mbid:4f89960a-1fc9-48d5-aafb-e164fff0348d,31,49,Seven · Jung Kook feat. Latto,18
+recording,mbid:50605eaa-4e63-4e6c-8bcf-40ad6812ff60,79,,MORE · j‐hope,
+recording,mbid:51d70ab9-bf1b-4872-be50-5956655b6145,84,81,Somebody · Jung Kook,-3
+recording,mbid:535500b8-8d11-4a8a-ac88-72da6d3069f0,86,56,Set Me Free Pt.2 · Jimin,-30
+recording,mbid:53b9351d-c7af-4755-9f16-5549bb91d125,3,4,Come Over · BTS,1
+recording,mbid:54b1c31a-e936-4a1c-8254-bd4f1a6ab6ae,43,55,FRI(END)S · V,12
+recording,mbid:581bed52-fc75-4d96-ac31-6bbd8131ac17,96,,? (interlude) · RM & DOMi & JD BECK,
+recording,mbid:5b082713-242e-41be-964a-f8917e2a2ee4,,57,Film out · BTS,
+recording,mbid:5d546ff3-79b4-4694-ba60-bb2da19997f3,48,62,Love Me Again · V,14
+recording,mbid:5f875c6f-2b40-482d-b9cf-e3cb76392ec4,92,,forever rain · RM,
+recording,mbid:602c5a16-5ede-439e-85e9-c22fa4c4e512,62,91,Nuts · RM,29
+recording,mbid:60bcc3e6-46dd-4b82-986e-0ebcc752ddd7,33,,The Astronaut · Jin,
+recording,mbid:61fb1575-d67b-4a0b-bf3a-9ad82fcc5e2f,75,38,Black Swan · BTS,-37
+recording,mbid:62e87c65-723d-430d-9e12-4fc6a39cbc67,53,83,Lonely · RM,30
+recording,mbid:635092e8-c6a8-4ff7-851f-a5f5f88f1160,55,80,tokyo · RM,25
+recording,mbid:650f3319-7331-48f3-b50f-828a354cfcc2,54,78,Rainy Days · V,24
+recording,mbid:67f1e3f1-9770-45cd-a17f-45b06c575940,47,70,Slow Dancing · V,23
+recording,mbid:6bd15827-5df8-4818-9514-6a93b22741cf,35,61,Daechwita · Agust D,26
+recording,mbid:6c92638f-2a96-4457-be45-8db077bc2d9c,78,84,SWIM with Jimin (slow jam R&B remix) · BTS,6
+recording,mbid:6dfdfc61-89ff-451a-a5e9-5319065beae7,6,7,Body to Body · BTS,1
+recording,mbid:6f117449-b642-42f9-8dfe-89bd2e57b682,32,63,Killin’ It Girl (solo version) · j-hope,31
+recording,mbid:6f33dc05-cdc0-4a2f-8039-e8fed082eec6,1,1,SWIM · BTS,0
+recording,mbid:6f6f19d4-64c0-4450-b487-3e0bacddf054,,87,Shot Glass of Tears · Jung Kook,
+recording,mbid:714d9836-57a3-4974-ae17-048db59d89dd,29,46,NORMAL (Korean ver.) · BTS,17
+recording,mbid:7bdd2fd6-e7ea-4926-8af9-6ebfcca06adc,11,12,they don’t know ’bout us · BTS,1
+recording,mbid:7c4df676-1e54-4074-aff2-64fe92a0e4b2,49,68,SWIM with RM (chill hip hop remix) · BTS,19
+recording,mbid:7cac948e-4228-4799-9c8b-e9df276639f1,15,17,No. 29 · BTS,2
+recording,mbid:7e36230c-fc8b-44f7-ad0b-6924bf34dde0,50,65,Life Goes On · BTS,15
+recording,mbid:802e86e2-5da4-40c5-a265-933eb64d864b,8,11,FYA · BTS,3
+recording,mbid:8bfa9e3c-88da-4d23-ae15-0afdec67b619,38,96,Running Wild · JIN,58
+recording,mbid:8c5b0a52-f04c-4604-aae9-652ce9a9bbfa,60,74,SWIM with j‐hope (afrobeat remix) · BTS,14
+recording,mbid:902be3e7-5631-4871-ac6a-5a45b30bf1ce,85,,Intro : Persona · BTS,
+recording,mbid:92a2bfc3-a633-4d7f-b496-f81b0fe0071d,36,58,3D · Jung Kook feat. Jack Harlow,22
+recording,mbid:92a78270-f0ac-4182-bff1-89ef1e9fad48,28,45,Winter Ahead · V with Park Hyo Shin,17
+recording,mbid:96cbf133-1bb1-44b6-99c9-25feee685e1f,77,98,Boy With Luv · BTS,21
+recording,mbid:98faaa53-eb11-4a49-9b69-33262055efb7,2,2,NORMAL · BTS,0
+recording,mbid:9a45b19d-4978-4692-b286-5d9b1f4e20a2,83,73,Be Mine · Jimin,-10
+recording,mbid:9e4f0aff-0c12-4a94-bc32-2c67dafeaff4,34,47,SWIM (instrumental) · BTS,13
+recording,mbid:a045f252-ea1a-42c3-b7a5-f69979e39394,4,8,Hooligan · BTS,4
+recording,mbid:aa644530-f78b-43fc-96fd-931734d523e5,70,95,MONA LISA · j-hope,25
+recording,mbid:b01a5c19-9117-4247-b046-434b8abab445,82,,Heaven · RM,
+recording,mbid:b4ae8f7c-14ea-4882-81e2-6e35fd6de44f,9,15,One More Night · BTS,6
+recording,mbid:b9462ebb-1d6d-4477-a12b-402c0b65b206,12,13,Merry Go Round · BTS,1
+recording,mbid:b9475022-5631-4574-a5bb-24e271a922e0,20,34,Don’t Say You Love Me · Jin,14
+recording,mbid:bb5fc7c3-f05f-4608-bb20-947e7e69ac59,89,,Groin · RM,
+recording,mbid:c35739f4-c76c-4422-a79c-4c5ab785e15f,73,42,Let Me Know · BTS,-31
+recording,mbid:c73941d9-7ac1-486d-bd88-3d3f8e944a7d,30,51,LOST! · RM,21
+recording,mbid:cdadee16-02ff-41cc-95a3-1fe239755bea,18,41,Am I Wrong · BTS,23
+recording,mbid:cf657d3b-3706-4d03-b3b2-62286c7a3898,64,100,"Right People, Wrong Place · RM",36
+recording,mbid:d2e89054-4fc4-43b3-95d3-8658444969e4,65,,REDRED · CORTIS,
+recording,mbid:d43818c5-dc4f-4f1d-aee2-87fc586cf4bb,80,82,SWIM with Jung Kook (acoustic lofi remix) · BTS,2
+recording,mbid:d6c92937-4d39-412a-8278-85004d81f9bd,66,,skit · Agust D,
+recording,mbid:da0221e5-7c96-4c23-8295-4855d91d4085,13,14,Like Animals · BTS,1
+recording,mbid:db965fe4-9e56-4fc7-837b-b2a0dcdb3206,57,72,Dynamite · BTS,15
+recording,mbid:e139bd8d-410c-41c1-967c-a30ee3b444e8,94,,Butter · BTS,
+recording,mbid:e1d686bb-9e8a-41b2-8242-e85022c40b8b,99,,moonchild · RM,
+recording,mbid:e28e391e-b71f-4fc2-bc5c-08d58a9f7a36,72,77,SWIM with Jin (alternative rock remix) · BTS,5
+recording,mbid:e4ea9c7a-9936-400b-a7cd-d01163ec5e17,19,33,Killin’ It Girl · j-hope feat. GloRilla,14
+recording,mbid:e989ad03-585a-4ad8-aeb3-0a0d8c4620a9,51,90,Come back to me · RM,39
+recording,mbid:ed543bbf-0a07-4efa-8dda-2f34f4685559,58,94,Change pt.2 · RM,36
+recording,mbid:ee539458-1b54-4cef-9a9a-95186094465a,21,40,SWIM · BTS,19
+recording,mbid:ef795484-964c-48db-adff-25295fd3330d,25,36,Who · Jimin,11
+recording,mbid:f430913a-9f6d-4ea0-b124-2b3be3fafe91,67,,out of love · RM,
+recording,mbid:f86842b2-8f37-471d-b340-05fb92965ade,100,,seoul · RM,
+recording,mbid:fa417fc3-3a37-4fad-b61e-cf76f8b23954,27,43,Seven · Jung Kook feat. Latto,16
+recording,"name:[""bts"",""normal (explicit ver.)""]",59,,NORMAL (Explicit Ver.) · BTS,
+recording,"name:[""fall out boy"",""aces""]",95,,ACES · Fall Out Boy,
+recording,"name:[""j-hope"",""killin' it girl (feat. glorilla)""]",44,88,Killin' It Girl (feat. GloRilla) · j-hope,44
+recording,"name:[""j-hope, glorilla"",""killin' it girl (feat. glorilla)""]",23,35,"Killin' It Girl (feat. GloRilla) · j-hope, GloRilla",12
+recording,"name:[""jung kook, latto"",""seven (feat. latto) (explicit ver.)""]",61,71,"Seven (feat. Latto) (Explicit Ver.) · Jung Kook, Latto",10
+recording,"name:[""jung kook, latto"",""seven (feat. latto)""]",81,,"Seven (feat. Latto) · Jung Kook, Latto",
+recording,"name:[""rm"",""wild flower (with youjeen)""]",22,37,Wild Flower (with youjeen) · RM,15
+recording,"name:[""rm, youjeen"",""wild flower (with youjeen)""]",17,18,"Wild Flower (with youjeen) · RM, Youjeen",1
+recording,"name:[""v, park hyo shin"",""winter ahead (with park hyo shin)""]",45,53,"Winter Ahead (with PARK HYO SHIN) · V, Park Hyo Shin",8

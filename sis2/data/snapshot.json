@@ -1,0 +1,3676 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "kind": "artist",
+      "params": {
+        "range": "week",
+        "count": 100,
+        "offset": 0
+      },
+      "url": "https://api.listenbrainz.org/1/stats/sitewide/artists?range=week&count=100&offset=0",
+      "retrieved_utc": "2026-11-23T09:37:07.593926+00:00",
+      "response": {
+        "payload": {
+          "artists": [
+            {
+              "artist_mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+              "artist_name": "BTS",
+              "listen_count": 508836
+            },
+            {
+              "artist_mbid": "f09d2950-e3c6-47b2-b21c-2bad2cd3f616",
+              "artist_name": "Agust D",
+              "listen_count": 94663
+            },
+            {
+              "artist_mbid": "e028fab5-39ae-4ed9-b8c2-c4344d88b171",
+              "artist_name": "Die drei ???",
+              "listen_count": 53613
+            },
+            {
+              "artist_mbid": "b3977da4-f899-4328-921b-ecc599a5618a",
+              "artist_name": "j‐hope",
+              "listen_count": 46722
+            },
+            {
+              "artist_mbid": "09720eec-3871-49d5-932d-eb7542768cd3",
+              "artist_name": "Jin",
+              "listen_count": 43401
+            },
+            {
+              "artist_mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+              "artist_name": "Jung Kook",
+              "listen_count": 41130
+            },
+            {
+              "artist_mbid": "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9",
+              "artist_name": "RM",
+              "listen_count": 39409
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "BTS",
+              "listen_count": 38398
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "RM, Youjeen",
+              "listen_count": 36139
+            },
+            {
+              "artist_mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+              "artist_name": "Linkin Park",
+              "listen_count": 34046
+            },
+            {
+              "artist_mbid": "83096042-3785-481e-8843-dee69f1aad12",
+              "artist_name": "V",
+              "listen_count": 33258
+            },
+            {
+              "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "artist_name": "Radiohead",
+              "listen_count": 30027
+            },
+            {
+              "artist_mbid": "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec",
+              "artist_name": "Jimin",
+              "listen_count": 28391
+            },
+            {
+              "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "artist_name": "Ye",
+              "listen_count": 23957
+            },
+            {
+              "artist_mbid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+              "artist_name": "GloRilla",
+              "listen_count": 23129
+            },
+            {
+              "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+              "artist_name": "Taylor Swift",
+              "listen_count": 23039
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "RM",
+              "listen_count": 21388
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "j-hope, GloRilla",
+              "listen_count": 20622
+            },
+            {
+              "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "artist_name": "The Weeknd",
+              "listen_count": 18928
+            },
+            {
+              "artist_mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+              "artist_name": "Olivia Rodrigo",
+              "listen_count": 18546
+            },
+            {
+              "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "artist_name": "Kendrick Lamar",
+              "listen_count": 17476
+            },
+            {
+              "artist_mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+              "artist_name": "My Chemical Romance",
+              "listen_count": 16846
+            },
+            {
+              "artist_mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+              "artist_name": "The Beatles",
+              "listen_count": 16630
+            },
+            {
+              "artist_mbid": "355cc194-b8db-4af2-8678-c7ad54213f4b",
+              "artist_name": "Latto",
+              "listen_count": 16391
+            },
+            {
+              "artist_mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+              "artist_name": "Tame Impala",
+              "listen_count": 16345
+            },
+            {
+              "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+              "artist_name": "Drake",
+              "listen_count": 16097
+            },
+            {
+              "artist_mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "artist_name": "Daft Punk",
+              "listen_count": 15627
+            },
+            {
+              "artist_mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+              "artist_name": "Eminem",
+              "listen_count": 15407
+            },
+            {
+              "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+              "artist_name": "Pink Floyd",
+              "listen_count": 15107
+            },
+            {
+              "artist_mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+              "artist_name": "Toby Fox",
+              "listen_count": 15095
+            },
+            {
+              "artist_mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+              "artist_name": "Ariana Grande",
+              "listen_count": 14964
+            },
+            {
+              "artist_mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+              "artist_name": "twenty one pilots",
+              "listen_count": 14912
+            },
+            {
+              "artist_mbid": "fac55e3c-d459-45ed-9f9f-f5078d3b3423",
+              "artist_name": "C418",
+              "listen_count": 14243
+            },
+            {
+              "artist_mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+              "artist_name": "Charli xcx",
+              "listen_count": 14229
+            },
+            {
+              "artist_mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+              "artist_name": "Deftones",
+              "listen_count": 14209
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "Die drei ???",
+              "listen_count": 13966
+            },
+            {
+              "artist_mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+              "artist_name": "Arctic Monkeys",
+              "listen_count": 13812
+            },
+            {
+              "artist_mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "artist_name": "Michael Jackson",
+              "listen_count": 13351
+            },
+            {
+              "artist_mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+              "artist_name": "Muse",
+              "listen_count": 13237
+            },
+            {
+              "artist_mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+              "artist_name": "underscores",
+              "listen_count": 12721
+            },
+            {
+              "artist_mbid": "074e3847-f67f-49f9-81f1-8c8cea147e8e",
+              "artist_name": "Bring Me the Horizon",
+              "listen_count": 12717
+            },
+            {
+              "artist_mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+              "artist_name": "Gorillaz",
+              "listen_count": 12677
+            },
+            {
+              "artist_mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+              "artist_name": "System of a Down",
+              "listen_count": 12557
+            },
+            {
+              "artist_mbid": "516cef4d-0718-4007-9939-f9b38af3f784",
+              "artist_name": "Fall Out Boy",
+              "listen_count": 12447
+            },
+            {
+              "artist_mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+              "artist_name": "Nirvana",
+              "listen_count": 12441
+            },
+            {
+              "artist_mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+              "artist_name": "Lady Gaga",
+              "listen_count": 11740
+            },
+            {
+              "artist_mbid": "084308bd-1654-436f-ba03-df6697104e19",
+              "artist_name": "Green Day",
+              "listen_count": 11645
+            },
+            {
+              "artist_mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+              "artist_name": "Coldplay",
+              "listen_count": 11565
+            },
+            {
+              "artist_mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+              "artist_name": "Paramore",
+              "listen_count": 11490
+            },
+            {
+              "artist_mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+              "artist_name": "Nine Inch Nails",
+              "listen_count": 11274
+            },
+            {
+              "artist_mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+              "artist_name": "Jane Remover",
+              "listen_count": 11058
+            },
+            {
+              "artist_mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+              "artist_name": "Red Hot Chili Peppers",
+              "listen_count": 10748
+            },
+            {
+              "artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+              "artist_name": "Bad Bunny",
+              "listen_count": 10730
+            },
+            {
+              "artist_mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+              "artist_name": "The Strokes",
+              "listen_count": 10670
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "j-hope",
+              "listen_count": 10645
+            },
+            {
+              "artist_mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+              "artist_name": "Billie Eilish",
+              "listen_count": 10643
+            },
+            {
+              "artist_mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+              "artist_name": "Queen",
+              "listen_count": 10594
+            },
+            {
+              "artist_mbid": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "artist_name": "Lana Del Rey",
+              "listen_count": 10473
+            },
+            {
+              "artist_mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "artist_name": "Metallica",
+              "listen_count": 10327
+            },
+            {
+              "artist_mbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+              "artist_name": "Queens of the Stone Age",
+              "listen_count": 10271
+            },
+            {
+              "artist_mbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+              "artist_name": "Boards of Canada",
+              "listen_count": 10209
+            },
+            {
+              "artist_mbid": "e941e097-0f9e-496d-a381-dd74a953682c",
+              "artist_name": "박효신",
+              "listen_count": 10188
+            },
+            {
+              "artist_mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+              "artist_name": "Madonna",
+              "listen_count": 10150
+            },
+            {
+              "artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+              "artist_name": "Tyler, The Creator",
+              "listen_count": 10081
+            },
+            {
+              "artist_mbid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+              "artist_name": "Fontaines D.C.",
+              "listen_count": 9757
+            },
+            {
+              "artist_mbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+              "artist_name": "Aphex Twin",
+              "listen_count": 9603
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "bangtantv",
+              "listen_count": 9593
+            },
+            {
+              "artist_mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+              "artist_name": "U2",
+              "listen_count": 9480
+            },
+            {
+              "artist_mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+              "artist_name": "Tool",
+              "listen_count": 9236
+            },
+            {
+              "artist_mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+              "artist_name": "The Cure",
+              "listen_count": 9153
+            },
+            {
+              "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+              "artist_name": "Travis Scott",
+              "listen_count": 9121
+            },
+            {
+              "artist_mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+              "artist_name": "Sabrina Carpenter",
+              "listen_count": 9011
+            },
+            {
+              "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "artist_name": "Rihanna",
+              "listen_count": 8985
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "Jung Kook, Latto",
+              "listen_count": 8858
+            },
+            {
+              "artist_mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+              "artist_name": "David Bowie",
+              "listen_count": 8712
+            },
+            {
+              "artist_mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+              "artist_name": "Ninajirachi",
+              "listen_count": 8615
+            },
+            {
+              "artist_mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "artist_name": "Fleetwood Mac",
+              "listen_count": 8592
+            },
+            {
+              "artist_mbid": "e134b52f-2e9e-4734-9bc3-bea9648d1fa1",
+              "artist_name": "Ado",
+              "listen_count": 8490
+            },
+            {
+              "artist_mbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7",
+              "artist_name": "King Gizzard & the Lizard Wizard",
+              "listen_count": 8190
+            },
+            {
+              "artist_mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+              "artist_name": "Slipknot",
+              "listen_count": 8158
+            },
+            {
+              "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+              "artist_name": "Future",
+              "listen_count": 8139
+            },
+            {
+              "artist_mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+              "artist_name": "Bruno Mars",
+              "listen_count": 8102
+            },
+            {
+              "artist_mbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+              "artist_name": "Rammstein",
+              "listen_count": 8085
+            },
+            {
+              "artist_mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+              "artist_name": "Dua Lipa",
+              "listen_count": 8061
+            },
+            {
+              "artist_mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+              "artist_name": "Depeche Mode",
+              "listen_count": 8047
+            },
+            {
+              "artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+              "artist_name": "Frank Ocean",
+              "listen_count": 7947
+            },
+            {
+              "artist_mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+              "artist_name": "Imagine Dragons",
+              "listen_count": 7917
+            },
+            {
+              "artist_mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+              "artist_name": "Mitski",
+              "listen_count": 7872
+            },
+            {
+              "artist_mbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+              "artist_name": "Weezer",
+              "listen_count": 7778
+            },
+            {
+              "artist_mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+              "artist_name": "Don Toliver",
+              "listen_count": 7732
+            },
+            {
+              "artist_mbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+              "artist_name": "Evanescence",
+              "listen_count": 7708
+            },
+            {
+              "artist_mbid": "4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+              "artist_name": "Juice WRLD",
+              "listen_count": 7595
+            },
+            {
+              "artist_mbid": "96855c21-b832-4366-ba12-0d2330c36a86",
+              "artist_name": "Phoebe Bridgers",
+              "listen_count": 7473
+            },
+            {
+              "artist_mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+              "artist_name": "PinkPantheress",
+              "listen_count": 7414
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "V, Park Hyo Shin",
+              "listen_count": 7299
+            },
+            {
+              "artist_mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+              "artist_name": "Britney Spears",
+              "listen_count": 7284
+            },
+            {
+              "artist_mbid": "8264722b-df00-467a-858e-5c97cda169c9",
+              "artist_name": "Joji",
+              "listen_count": 7244
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "Jung Kook",
+              "listen_count": 7228
+            },
+            {
+              "artist_mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+              "artist_name": "Slayyyter",
+              "listen_count": 7179
+            },
+            {
+              "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+              "artist_name": "Playboi Carti",
+              "listen_count": 7104
+            }
+          ],
+          "count": 100,
+          "from_ts": 1794182400,
+          "last_updated": 1795359384,
+          "offset": 0,
+          "range": "week",
+          "to_ts": 1794787200,
+          "total_artist_count": 735016
+        }
+      }
+    },
+    {
+      "kind": "artist",
+      "params": {
+        "range": "month",
+        "count": 100,
+        "offset": 0
+      },
+      "url": "https://api.listenbrainz.org/1/stats/sitewide/artists?range=month&count=100&offset=0",
+      "retrieved_utc": "2026-11-23T09:37:07.708333+00:00",
+      "response": {
+        "payload": {
+          "artists": [
+            {
+              "artist_mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+              "artist_name": "BTS",
+              "listen_count": 738385
+            },
+            {
+              "artist_mbid": "f09d2950-e3c6-47b2-b21c-2bad2cd3f616",
+              "artist_name": "Agust D",
+              "listen_count": 304472
+            },
+            {
+              "artist_mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+              "artist_name": "Linkin Park",
+              "listen_count": 197954
+            },
+            {
+              "artist_mbid": "b3977da4-f899-4328-921b-ecc599a5618a",
+              "artist_name": "j‐hope",
+              "listen_count": 183812
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "BTS",
+              "listen_count": 181732
+            },
+            {
+              "artist_mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+              "artist_name": "Jung Kook",
+              "listen_count": 176065
+            },
+            {
+              "artist_mbid": "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec",
+              "artist_name": "Jimin",
+              "listen_count": 174864
+            },
+            {
+              "artist_mbid": "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9",
+              "artist_name": "RM",
+              "listen_count": 173254
+            },
+            {
+              "artist_mbid": "09720eec-3871-49d5-932d-eb7542768cd3",
+              "artist_name": "Jin",
+              "listen_count": 173133
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "RM, youjeen",
+              "listen_count": 165739
+            },
+            {
+              "artist_mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+              "artist_name": "Radiohead",
+              "listen_count": 156547
+            },
+            {
+              "artist_mbid": "83096042-3785-481e-8843-dee69f1aad12",
+              "artist_name": "V",
+              "listen_count": 150019
+            },
+            {
+              "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+              "artist_name": "Ye",
+              "listen_count": 124815
+            },
+            {
+              "artist_mbid": "20244d07-534f-4eff-b4d4-930878889970",
+              "artist_name": "Taylor Swift",
+              "listen_count": 123828
+            },
+            {
+              "artist_mbid": "e028fab5-39ae-4ed9-b8c2-c4344d88b171",
+              "artist_name": "Die drei ???",
+              "listen_count": 107207
+            },
+            {
+              "artist_mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+              "artist_name": "Olivia Rodrigo",
+              "listen_count": 104863
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "j-hope, GloRilla",
+              "listen_count": 103224
+            },
+            {
+              "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+              "artist_name": "Kendrick Lamar",
+              "listen_count": 102618
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "RM",
+              "listen_count": 102156
+            },
+            {
+              "artist_mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+              "artist_name": "The Beatles",
+              "listen_count": 99843
+            },
+            {
+              "artist_mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+              "artist_name": "The Weeknd",
+              "listen_count": 98680
+            },
+            {
+              "artist_mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+              "artist_name": "Tame Impala",
+              "listen_count": 97834
+            },
+            {
+              "artist_mbid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+              "artist_name": "GloRilla",
+              "listen_count": 95052
+            },
+            {
+              "artist_mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+              "artist_name": "My Chemical Romance",
+              "listen_count": 91603
+            },
+            {
+              "artist_mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+              "artist_name": "twenty one pilots",
+              "listen_count": 85981
+            },
+            {
+              "artist_mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+              "artist_name": "Toby Fox",
+              "listen_count": 85501
+            },
+            {
+              "artist_mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+              "artist_name": "Pink Floyd",
+              "listen_count": 85332
+            },
+            {
+              "artist_mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+              "artist_name": "Daft Punk",
+              "listen_count": 85041
+            },
+            {
+              "artist_mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+              "artist_name": "Charli xcx",
+              "listen_count": 84990
+            },
+            {
+              "artist_mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+              "artist_name": "Drake",
+              "listen_count": 83226
+            },
+            {
+              "artist_mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+              "artist_name": "System of a Down",
+              "listen_count": 81749
+            },
+            {
+              "artist_mbid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+              "artist_name": "Fontaines D.C.",
+              "listen_count": 81574
+            },
+            {
+              "artist_mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+              "artist_name": "Eminem",
+              "listen_count": 80481
+            },
+            {
+              "artist_mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+              "artist_name": "Michael Jackson",
+              "listen_count": 78615
+            },
+            {
+              "artist_mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+              "artist_name": "Ariana Grande",
+              "listen_count": 75533
+            },
+            {
+              "artist_mbid": "fac55e3c-d459-45ed-9f9f-f5078d3b3423",
+              "artist_name": "C418",
+              "listen_count": 74320
+            },
+            {
+              "artist_mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+              "artist_name": "Gorillaz",
+              "listen_count": 73617
+            },
+            {
+              "artist_mbid": "355cc194-b8db-4af2-8678-c7ad54213f4b",
+              "artist_name": "Latto",
+              "listen_count": 72823
+            },
+            {
+              "artist_mbid": "084308bd-1654-436f-ba03-df6697104e19",
+              "artist_name": "Green Day",
+              "listen_count": 72323
+            },
+            {
+              "artist_mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+              "artist_name": "Muse",
+              "listen_count": 71697
+            },
+            {
+              "artist_mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+              "artist_name": "Deftones",
+              "listen_count": 71579
+            },
+            {
+              "artist_mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+              "artist_name": "Arctic Monkeys",
+              "listen_count": 71469
+            },
+            {
+              "artist_mbid": "074e3847-f67f-49f9-81f1-8c8cea147e8e",
+              "artist_name": "Bring Me the Horizon",
+              "listen_count": 70303
+            },
+            {
+              "artist_mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+              "artist_name": "Nirvana",
+              "listen_count": 69610
+            },
+            {
+              "artist_mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+              "artist_name": "underscores",
+              "listen_count": 65995
+            },
+            {
+              "artist_mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+              "artist_name": "Coldplay",
+              "listen_count": 64971
+            },
+            {
+              "artist_mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+              "artist_name": "Lady Gaga",
+              "listen_count": 64416
+            },
+            {
+              "artist_mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+              "artist_name": "Billie Eilish",
+              "listen_count": 63768
+            },
+            {
+              "artist_mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+              "artist_name": "The Strokes",
+              "listen_count": 62967
+            },
+            {
+              "artist_mbid": "396a9525-0994-4542-b480-c4587feeb476",
+              "artist_name": "Tinashe",
+              "listen_count": 62700
+            },
+            {
+              "artist_mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+              "artist_name": "Metallica",
+              "listen_count": 61778
+            },
+            {
+              "artist_mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+              "artist_name": "Red Hot Chili Peppers",
+              "listen_count": 60480
+            },
+            {
+              "artist_mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+              "artist_name": "Tyler, The Creator",
+              "listen_count": 59501
+            },
+            {
+              "artist_mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+              "artist_name": "Paramore",
+              "listen_count": 58694
+            },
+            {
+              "artist_mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+              "artist_name": "Queen",
+              "listen_count": 57218
+            },
+            {
+              "artist_mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+              "artist_name": "Nine Inch Nails",
+              "listen_count": 57092
+            },
+            {
+              "artist_mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+              "artist_name": "The Cure",
+              "listen_count": 55717
+            },
+            {
+              "artist_mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+              "artist_name": "Travis Scott",
+              "listen_count": 54677
+            },
+            {
+              "artist_mbid": "6897b46a-9236-4480-9ed7-300f6b85d62f",
+              "artist_name": "Ninajirachi",
+              "listen_count": 54656
+            },
+            {
+              "artist_mbid": "b7539c32-53e7-4908-bda3-81449c367da6",
+              "artist_name": "Lana Del Rey",
+              "listen_count": 54226
+            },
+            {
+              "artist_mbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+              "artist_name": "Boards of Canada",
+              "listen_count": 51596
+            },
+            {
+              "artist_mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+              "artist_name": "Tool",
+              "listen_count": 51526
+            },
+            {
+              "artist_mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+              "artist_name": "Bad Bunny",
+              "listen_count": 51203
+            },
+            {
+              "artist_mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+              "artist_name": "David Bowie",
+              "listen_count": 50550
+            },
+            {
+              "artist_mbid": "f40856e6-079f-4a0a-916e-9e6a5e04f646",
+              "artist_name": "ADÉLA",
+              "listen_count": 49154
+            },
+            {
+              "artist_mbid": "516cef4d-0718-4007-9939-f9b38af3f784",
+              "artist_name": "Fall Out Boy",
+              "listen_count": 48351
+            },
+            {
+              "artist_mbid": "9058d01e-8afc-47a4-8664-621fb5f159c0",
+              "artist_name": "Slayyyter",
+              "listen_count": 48073
+            },
+            {
+              "artist_mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+              "artist_name": "Imagine Dragons",
+              "listen_count": 48073
+            },
+            {
+              "artist_mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+              "artist_name": "Fleetwood Mac",
+              "listen_count": 48067
+            },
+            {
+              "artist_mbid": "e941e097-0f9e-496d-a381-dd74a953682c",
+              "artist_name": "박효신",
+              "listen_count": 48037
+            },
+            {
+              "artist_mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+              "artist_name": "Slipknot",
+              "listen_count": 47745
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "j-hope",
+              "listen_count": 46956
+            },
+            {
+              "artist_mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+              "artist_name": "Rihanna",
+              "listen_count": 46890
+            },
+            {
+              "artist_mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+              "artist_name": "Sabrina Carpenter",
+              "listen_count": 46733
+            },
+            {
+              "artist_mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+              "artist_name": "Madonna",
+              "listen_count": 46662
+            },
+            {
+              "artist_mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+              "artist_name": "Frank Ocean",
+              "listen_count": 46501
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "Jung Kook, Latto",
+              "listen_count": 46430
+            },
+            {
+              "artist_mbid": "8264722b-df00-467a-858e-5c97cda169c9",
+              "artist_name": "Joji",
+              "listen_count": 45563
+            },
+            {
+              "artist_mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+              "artist_name": "Dua Lipa",
+              "listen_count": 45303
+            },
+            {
+              "artist_mbid": "96855c21-b832-4366-ba12-0d2330c36a86",
+              "artist_name": "Phoebe Bridgers",
+              "listen_count": 45171
+            },
+            {
+              "artist_mbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+              "artist_name": "Evanescence",
+              "listen_count": 45109
+            },
+            {
+              "artist_mbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+              "artist_name": "Aphex Twin",
+              "listen_count": 44761
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "V, Park Hyo Shin",
+              "listen_count": 44314
+            },
+            {
+              "artist_mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
+              "artist_name": "Carly Rae Jepsen",
+              "listen_count": 44281
+            },
+            {
+              "artist_mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+              "artist_name": "Depeche Mode",
+              "listen_count": 44187
+            },
+            {
+              "artist_mbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+              "artist_name": "Rammstein",
+              "listen_count": 43863
+            },
+            {
+              "artist_mbid": "e134b52f-2e9e-4734-9bc3-bea9648d1fa1",
+              "artist_name": "Ado",
+              "listen_count": 42862
+            },
+            {
+              "artist_mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+              "artist_name": "Bruno Mars",
+              "listen_count": 42597
+            },
+            {
+              "artist_mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+              "artist_name": "Future",
+              "listen_count": 42252
+            },
+            {
+              "artist_mbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+              "artist_name": "The Rolling Stones",
+              "listen_count": 41934
+            },
+            {
+              "artist_mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+              "artist_name": "PinkPantheress",
+              "listen_count": 41881
+            },
+            {
+              "artist_mbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+              "artist_name": "Weezer",
+              "listen_count": 41746
+            },
+            {
+              "artist_mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+              "artist_name": "Foo Fighters",
+              "listen_count": 41603
+            },
+            {
+              "artist_mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+              "artist_name": "Jane Remover",
+              "listen_count": 40979
+            },
+            {
+              "artist_mbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+              "artist_name": "Queens of the Stone Age",
+              "listen_count": 40736
+            },
+            {
+              "artist_mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+              "artist_name": "Playboi Carti",
+              "listen_count": 40107
+            },
+            {
+              "artist_mbid": "0743b15a-3c32-48c8-ad58-cb325350befa",
+              "artist_name": "blink‐182",
+              "listen_count": 39749
+            },
+            {
+              "artist_mbid": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+              "artist_name": "Korn",
+              "listen_count": 39249
+            },
+            {
+              "artist_mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+              "artist_name": "J. Cole",
+              "listen_count": 38777
+            },
+            {
+              "artist_mbid": null,
+              "artist_name": "Jung Kook",
+              "listen_count": 38767
+            }
+          ],
+          "count": 100,
+          "from_ts": 1790812800,
+          "last_updated": 1795361434,
+          "offset": 0,
+          "range": "month",
+          "to_ts": 1793491200,
+          "total_artist_count": 1560180
+        }
+      }
+    },
+    {
+      "kind": "recording",
+      "params": {
+        "range": "week",
+        "count": 100,
+        "offset": 0
+      },
+      "url": "https://api.listenbrainz.org/1/stats/sitewide/recordings?range=week&count=100&offset=0",
+      "retrieved_utc": "2026-11-23T09:37:07.940076+00:00",
+      "response": {
+        "payload": {
+          "count": 100,
+          "from_ts": 1794182400,
+          "last_updated": 1795359384,
+          "offset": 0,
+          "range": "week",
+          "recordings": [
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 227373,
+              "recording_mbid": "6f33dc05-cdc0-4a2f-8039-e8fed082eec6",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "SWIM"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 138699,
+              "recording_mbid": "98faaa53-eb11-4a49-9b69-33262055efb7",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "NORMAL"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 95467,
+              "recording_mbid": "53b9351d-c7af-4755-9f16-5549bb91d125",
+              "release_mbid": "efb0cfe1-ac49-449d-bbe2-2121cac844d8",
+              "release_name": "ARIRANG",
+              "track_name": "Come Over"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 70186,
+              "recording_mbid": "a045f252-ea1a-42c3-b7a5-f69979e39394",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Hooligan"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 69932,
+              "recording_mbid": "1d6222e0-77eb-4047-b4fb-045a0c5636d3",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "2.0"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 69328,
+              "recording_mbid": "6dfdfc61-89ff-451a-a5e9-5319065beae7",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Body to Body"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 68725,
+              "recording_mbid": "370cb956-910e-4fde-87b4-fdce053168e9",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Aliens"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 66278,
+              "recording_mbid": "802e86e2-5da4-40c5-a265-933eb64d864b",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "FYA"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 65353,
+              "recording_mbid": "b4ae8f7c-14ea-4882-81e2-6e35fd6de44f",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "One More Night"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 65343,
+              "recording_mbid": "24909119-fb10-416b-b8d4-fd9016f75033",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Into the Sun"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 65119,
+              "recording_mbid": "7bdd2fd6-e7ea-4926-8af9-6ebfcca06adc",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "they don’t know ’bout us"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 65083,
+              "recording_mbid": "b9462ebb-1d6d-4477-a12b-402c0b65b206",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Merry Go Round"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 64508,
+              "recording_mbid": "da0221e5-7c96-4c23-8295-4855d91d4085",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Like Animals"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 63680,
+              "recording_mbid": "2ce03059-d0a9-4b10-bec6-de779d6f5fe9",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Please"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 60792,
+              "recording_mbid": "7cac948e-4228-4799-9c8b-e9df276639f1",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "No. 29"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 35452959606,
+              "caa_release_mbid": "79d732ee-bdad-4d2e-a93c-c98431bbaa64",
+              "listen_count": 53850,
+              "recording_mbid": "079a54bb-1a59-4e40-8456-7695b644d059",
+              "release_mbid": "a44bdae7-959e-4f9f-820d-3358021793db",
+              "release_name": "D‐DAY",
+              "track_name": "해금"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "RM, Youjeen",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 36115,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Indigo",
+              "track_name": "Wild Flower (with youjeen)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 14867645927,
+              "caa_release_mbid": "394640fb-6f96-4f07-82d2-3639ddb84104",
+              "listen_count": 23649,
+              "recording_mbid": "cdadee16-02ff-41cc-95a3-1fe239755bea",
+              "release_mbid": "394640fb-6f96-4f07-82d2-3639ddb84104",
+              "release_name": "WINGS",
+              "track_name": "Am I Wrong"
+            },
+            {
+              "artist_mbids": [
+                "b3977da4-f899-4328-921b-ecc599a5618a",
+                "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2"
+              ],
+              "artist_name": "j-hope feat. GloRilla",
+              "caa_id": 42227057819,
+              "caa_release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "listen_count": 22626,
+              "recording_mbid": "e4ea9c7a-9936-400b-a7cd-d01163ec5e17",
+              "release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "release_name": "Killin’ It Girl",
+              "track_name": "Killin’ It Girl"
+            },
+            {
+              "artist_mbids": [
+                "09720eec-3871-49d5-932d-eb7542768cd3"
+              ],
+              "artist_name": "Jin",
+              "caa_id": 41985751334,
+              "caa_release_mbid": "21282f34-eb18-402b-b9e7-e125a6c94c51",
+              "listen_count": 18451,
+              "recording_mbid": "b9475022-5631-4574-a5bb-24e271a922e0",
+              "release_mbid": "a9345007-05fa-4b4b-a437-dab041cb1f95",
+              "release_name": "Echo",
+              "track_name": "Don’t Say You Love Me"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 17936,
+              "recording_mbid": "ee539458-1b54-4cef-9a9a-95186094465a",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "SWIM"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "RM",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 17451,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Indigo",
+              "track_name": "Wild Flower (with youjeen)"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "j-hope, GloRilla",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 16915,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Killin' It Girl (feat. GloRilla)",
+              "track_name": "Killin' It Girl (feat. GloRilla)"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 35452906276,
+              "caa_release_mbid": "9a0acf89-d331-4ea0-a8b0-b20b6b3dd8ee",
+              "listen_count": 15675,
+              "recording_mbid": "079a54bb-1a59-4e40-8456-7695b644d059",
+              "release_mbid": "a44bdae7-959e-4f9f-820d-3358021793db",
+              "release_name": "D‐DAY",
+              "track_name": "해금"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 44689911194,
+              "caa_release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "listen_count": 12577,
+              "recording_mbid": "ef795484-964c-48db-adff-25295fd3330d",
+              "release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "release_name": "Muse",
+              "track_name": "Who"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 12231,
+              "recording_mbid": "4a89a693-a5a7-4348-9cf6-718aad1667fb",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Standing Next to You"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+                "355cc194-b8db-4af2-8678-c7ad54213f4b"
+              ],
+              "artist_name": "Jung Kook feat. Latto",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 11117,
+              "recording_mbid": "fa417fc3-3a37-4fad-b61e-cf76f8b23954",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Seven"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12",
+                "e941e097-0f9e-496d-a381-dd74a953682c"
+              ],
+              "artist_name": "V with Park Hyo Shin",
+              "caa_id": 40534277936,
+              "caa_release_mbid": "c77702bc-4910-4a84-bd70-0f05fa04513d",
+              "listen_count": 10118,
+              "recording_mbid": "92a78270-f0ac-4182-bff1-89ef1e9fad48",
+              "release_mbid": "de94a3d5-21d8-4edb-9c47-bba191fcd4df",
+              "release_name": "Winter Ahead",
+              "track_name": "Winter Ahead"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 45677625719,
+              "caa_release_mbid": "c5910c91-93e4-4c36-9c68-9aafcca611b2",
+              "listen_count": 8736,
+              "recording_mbid": "714d9836-57a3-4974-ae17-048db59d89dd",
+              "release_mbid": "542beea5-c2ce-4d2e-a9d3-0cff4b480467",
+              "release_name": "NORMAL",
+              "track_name": "NORMAL (Korean ver.)"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 7833,
+              "recording_mbid": "c73941d9-7ac1-486d-bd88-3d3f8e944a7d",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "LOST!"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+                "355cc194-b8db-4af2-8678-c7ad54213f4b"
+              ],
+              "artist_name": "Jung Kook feat. Latto",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 7182,
+              "recording_mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Seven"
+            },
+            {
+              "artist_mbids": [
+                "b3977da4-f899-4328-921b-ecc599a5618a"
+              ],
+              "artist_name": "j-hope",
+              "caa_id": 42227057819,
+              "caa_release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "listen_count": 6581,
+              "recording_mbid": "6f117449-b642-42f9-8dfe-89bd2e57b682",
+              "release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "release_name": "Killin’ It Girl",
+              "track_name": "Killin’ It Girl (solo version)"
+            },
+            {
+              "artist_mbids": [
+                "09720eec-3871-49d5-932d-eb7542768cd3"
+              ],
+              "artist_name": "Jin",
+              "caa_id": 39201853528,
+              "caa_release_mbid": "e6c59eb3-9e19-4a75-93c3-8cc0c7d4b90b",
+              "listen_count": 6353,
+              "recording_mbid": "60bcc3e6-46dd-4b82-986e-0ebcc752ddd7",
+              "release_mbid": "073fa523-2af0-40a8-8f43-e4e28db3ab5a",
+              "release_name": "The Astronaut",
+              "track_name": "The Astronaut"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44667477072,
+              "caa_release_mbid": "5754c361-579f-44e2-ac61-cac6be39d889",
+              "listen_count": 6325,
+              "recording_mbid": "9e4f0aff-0c12-4a94-bc32-2c67dafeaff4",
+              "release_mbid": "5754c361-579f-44e2-ac61-cac6be39d889",
+              "release_name": "SWIM",
+              "track_name": "SWIM (instrumental)"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 28321992441,
+              "caa_release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "listen_count": 5539,
+              "recording_mbid": "6bd15827-5df8-4818-9514-6a93b22741cf",
+              "release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "release_name": "D-2",
+              "track_name": "Daechwita"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+                "134cb0bc-06fa-42f7-8078-b0c858349975"
+              ],
+              "artist_name": "Jung Kook feat. Jack Harlow",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 5526,
+              "recording_mbid": "92a2bfc3-a633-4d7f-b496-f81b0fe0071d",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "3D"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 5405,
+              "recording_mbid": "714d9836-57a3-4974-ae17-048db59d89dd",
+              "release_mbid": null,
+              "release_name": null,
+              "track_name": "NORMAL (Korean ver.)"
+            },
+            {
+              "artist_mbids": [
+                "09720eec-3871-49d5-932d-eb7542768cd3"
+              ],
+              "artist_name": "JIN",
+              "caa_id": 40415629394,
+              "caa_release_mbid": "c1aba893-f27f-4343-8129-c4348b57e5b5",
+              "listen_count": 4994,
+              "recording_mbid": "8bfa9e3c-88da-4d23-ae15-0afdec67b619",
+              "release_mbid": "96a7d8f6-6e58-4ef4-90c8-4c4bcaa821f5",
+              "release_name": "Happy",
+              "track_name": "Running Wild"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 17820984530,
+              "caa_release_mbid": "5f47c9ae-b213-43c3-9a32-2f656a57dc4b",
+              "listen_count": 4918,
+              "recording_mbid": "4e7bfe28-623f-4123-b688-e55ef346b8fe",
+              "release_mbid": "e9abf180-ff60-41ef-8020-3a7e84e94444",
+              "release_name": "LOVE YOURSELF 承 ‘Her’",
+              "track_name": "DNA"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 4784,
+              "recording_mbid": "4b9a186c-68ec-4207-86df-32f9e020707c",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with SUGA (melodic techno remix)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 12132829590,
+              "caa_release_mbid": "378970be-78c4-4f57-8af5-66a5fdcbbae0",
+              "listen_count": 4762,
+              "recording_mbid": "22d90ef6-04dc-4ab6-9fd5-5ee8fa52e102",
+              "release_mbid": "378970be-78c4-4f57-8af5-66a5fdcbbae0",
+              "release_name": "화양연화 pt.2",
+              "track_name": "RUN"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 4708,
+              "recording_mbid": "3d651fa9-dbd2-447d-aef6-37c8cecc8ab8",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Yes or No"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 38301349810,
+              "caa_release_mbid": "9dadf02c-49bc-4701-9fa0-6009ef171fc7",
+              "listen_count": 4484,
+              "recording_mbid": "54b1c31a-e936-4a1c-8254-bd4f1a6ab6ae",
+              "release_mbid": "9dadf02c-49bc-4701-9fa0-6009ef171fc7",
+              "release_name": "FRI(END)S",
+              "track_name": "FRI(END)S"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "j-hope",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 4472,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Killin' It Girl (feat. GloRilla)",
+              "track_name": "Killin' It Girl (feat. GloRilla)"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "V, Park Hyo Shin",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 4453,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Winter Ahead (with PARK HYO SHIN)",
+              "track_name": "Winter Ahead (with PARK HYO SHIN)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 20439220966,
+              "caa_release_mbid": "8618145b-6ae4-4f0a-ae59-4a4660a72abd",
+              "listen_count": 4453,
+              "recording_mbid": "27e95178-49ac-47a1-8b4c-540c77982680",
+              "release_mbid": "8618145b-6ae4-4f0a-ae59-4a4660a72abd",
+              "release_name": "LOVE YOURSELF 轉 ‘Tear’",
+              "track_name": "FAKE LOVE"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 36406571978,
+              "caa_release_mbid": "3c113a63-8cbd-4220-ae55-45ea0fdb6e47",
+              "listen_count": 3933,
+              "recording_mbid": "67f1e3f1-9770-45cd-a17f-45b06c575940",
+              "release_mbid": "3c113a63-8cbd-4220-ae55-45ea0fdb6e47",
+              "release_name": "Slow Dancing",
+              "track_name": "Slow Dancing"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 36423242196,
+              "caa_release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "listen_count": 3880,
+              "recording_mbid": "5d546ff3-79b4-4694-ba60-bb2da19997f3",
+              "release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "release_name": "Layover",
+              "track_name": "Love Me Again"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 3805,
+              "recording_mbid": "7c4df676-1e54-4074-aff2-64fe92a0e4b2",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with RM (chill hip hop remix)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 27883008773,
+              "caa_release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "listen_count": 3798,
+              "recording_mbid": "7e36230c-fc8b-44f7-ad0b-6924bf34dde0",
+              "release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "release_name": "BE",
+              "track_name": "Life Goes On"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 3680,
+              "recording_mbid": "e989ad03-585a-4ad8-aeb3-0a0d8c4620a9",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Come back to me"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "j-hope, GloRilla",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 3595,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Killin' It Girl (feat. GloRilla) (Remixes)",
+              "track_name": "Killin' It Girl (feat. GloRilla)"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 35428423274,
+              "caa_release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "listen_count": 3355,
+              "recording_mbid": "62e87c65-723d-430d-9e12-4fc6a39cbc67",
+              "release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "release_name": "Indigo",
+              "track_name": "Lonely"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 36423242196,
+              "caa_release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "listen_count": 3301,
+              "recording_mbid": "650f3319-7331-48f3-b50f-828a354cfcc2",
+              "release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "release_name": "Layover",
+              "track_name": "Rainy Days"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 21643820338,
+              "caa_release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "listen_count": 3267,
+              "recording_mbid": "635092e8-c6a8-4ff7-851f-a5f5f88f1160",
+              "release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "release_name": "mono.",
+              "track_name": "tokyo"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 42560793116,
+              "caa_release_mbid": "62e3b996-8bae-442e-a60b-25b45d39762e",
+              "listen_count": 3236,
+              "recording_mbid": "38f1f272-d7e8-4ae7-93ff-3e574eeef484",
+              "release_mbid": "62e3b996-8bae-442e-a60b-25b45d39762e",
+              "release_name": "PERMISSION TO DANCE ON STAGE - LIVE",
+              "track_name": "Blood Sweat & Tears - Live"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 27883008773,
+              "caa_release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "listen_count": 3226,
+              "recording_mbid": "db965fe4-9e56-4fc7-837b-b2a0dcdb3206",
+              "release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "release_name": "BE",
+              "track_name": "Dynamite"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 35428423274,
+              "caa_release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "listen_count": 3222,
+              "recording_mbid": "ed543bbf-0a07-4efa-8dda-2f34f4685559",
+              "release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "release_name": "Indigo",
+              "track_name": "Change pt.2"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "BTS",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 3206,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "ARIRANG",
+              "track_name": "NORMAL (Explicit Ver.)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 3189,
+              "recording_mbid": "8c5b0a52-f04c-4604-aae9-652ce9a9bbfa",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with j‐hope (afrobeat remix)"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "Jung Kook, Latto",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 3066,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "GOLDEN",
+              "track_name": "Seven (feat. Latto) (Explicit Ver.)"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 3040,
+              "recording_mbid": "602c5a16-5ede-439e-85e9-c22fa4c4e512",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Nuts"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 3035,
+              "recording_mbid": "19da6aed-b596-4216-b7e6-2b0d3c84ab04",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "ㅠㅠ (Credit Roll)"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 2989,
+              "recording_mbid": "cf657d3b-3706-4d03-b3b2-62286c7a3898",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Right People, Wrong Place"
+            },
+            {
+              "artist_mbids": [
+                "d27808c8-d3a6-4bbe-acc2-22d5e19f3bca"
+              ],
+              "artist_name": "CORTIS",
+              "caa_id": 44965608626,
+              "caa_release_mbid": "78ef1993-50d6-412d-a5a5-1879f2a26951",
+              "listen_count": 2972,
+              "recording_mbid": "d2e89054-4fc4-43b3-95d3-8658444969e4",
+              "release_mbid": "78ef1993-50d6-412d-a5a5-1879f2a26951",
+              "release_name": "REDRED",
+              "track_name": "REDRED"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 16415380925,
+              "caa_release_mbid": "e2b55f96-2b14-466c-ac54-be4c146ec59f",
+              "listen_count": 2965,
+              "recording_mbid": "d6c92937-4d39-412a-8278-85004d81f9bd",
+              "release_mbid": "e2b55f96-2b14-466c-ac54-be4c146ec59f",
+              "release_name": "Agust D",
+              "track_name": "skit"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 2964,
+              "recording_mbid": "f430913a-9f6d-4ea0-b124-2b3be3fafe91",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "out of love"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 2937,
+              "recording_mbid": "2d5da8a7-aa96-4af5-b4b2-a4fd6746842c",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with V (electronic remix)"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 28321992441,
+              "caa_release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "listen_count": 2922,
+              "recording_mbid": "059a2781-f733-467a-be36-769d810571af",
+              "release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "release_name": "D-2",
+              "track_name": "People"
+            },
+            {
+              "artist_mbids": [
+                "b3977da4-f899-4328-921b-ecc599a5618a"
+              ],
+              "artist_name": "j-hope",
+              "caa_id": 41531186651,
+              "caa_release_mbid": "384fbe5e-32d9-44ff-9d44-a39a88eed4f5",
+              "listen_count": 2894,
+              "recording_mbid": "aa644530-f78b-43fc-96fd-931734d523e5",
+              "release_mbid": "384fbe5e-32d9-44ff-9d44-a39a88eed4f5",
+              "release_name": "MONA LISA",
+              "track_name": "MONA LISA"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 43379051269,
+              "caa_release_mbid": "a224c449-2816-4c8d-b85f-d23bc9d24ef3",
+              "listen_count": 2857,
+              "recording_mbid": "366231d3-fee2-4600-a589-bf2976e36462",
+              "release_mbid": "a224c449-2816-4c8d-b85f-d23bc9d24ef3",
+              "release_name": "Agust D",
+              "track_name": "140503 at dawn"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 2841,
+              "recording_mbid": "e28e391e-b71f-4fc2-bc5c-08d58a9f7a36",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with Jin (alternative rock remix)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 8114477155,
+              "caa_release_mbid": "0148d084-44bb-4daf-87d7-7d09cc6ae782",
+              "listen_count": 2840,
+              "recording_mbid": "c35739f4-c76c-4422-a79c-4c5ab785e15f",
+              "release_mbid": "0148d084-44bb-4daf-87d7-7d09cc6ae782",
+              "release_name": "DARK&WILD",
+              "track_name": "Let Me Know"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9",
+                "d02dd67e-f655-4600-bc47-f789f59e7367"
+              ],
+              "artist_name": "RM with Anderson .Paak",
+              "caa_id": 35428423274,
+              "caa_release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "listen_count": 2809,
+              "recording_mbid": "346c1f7c-a41f-48da-b2b7-7d2245364e37",
+              "release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "release_name": "Indigo",
+              "track_name": "Still Life"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 25495089714,
+              "caa_release_mbid": "f718b3b6-5530-45f3-9c04-3583dd4951b6",
+              "listen_count": 2739,
+              "recording_mbid": "61fb1575-d67b-4a0b-bf3a-9ad82fcc5e2f",
+              "release_mbid": "f718b3b6-5530-45f3-9c04-3583dd4951b6",
+              "release_name": "MAP OF THE SOUL : 7",
+              "track_name": "Black Swan"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 45677625719,
+              "caa_release_mbid": "c5910c91-93e4-4c36-9c68-9aafcca611b2",
+              "listen_count": 2704,
+              "recording_mbid": "017935ba-3241-455d-9747-1ffefe6b446d",
+              "release_mbid": "d65be279-416c-4b98-8688-1161a9b185ff",
+              "release_name": "NORMAL",
+              "track_name": "NORMAL (instrumental)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 2675,
+              "recording_mbid": "96cbf133-1bb1-44b6-99c9-25feee685e1f",
+              "release_mbid": "e5d29be4-94bf-4706-b51d-587603ba3e78",
+              "release_name": "2019-04-13: Saturday Night Live, New York, NY, USA",
+              "track_name": "Boy With Luv"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 2631,
+              "recording_mbid": "6c92638f-2a96-4457-be45-8db077bc2d9c",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with Jimin (slow jam R&B remix)"
+            },
+            {
+              "artist_mbids": [
+                "b3977da4-f899-4328-921b-ecc599a5618a"
+              ],
+              "artist_name": "j‐hope",
+              "caa_id": 33033166009,
+              "caa_release_mbid": "7201c882-92df-433b-96e6-9228c141f731",
+              "listen_count": 2626,
+              "recording_mbid": "50605eaa-4e63-4e6c-8bcf-40ad6812ff60",
+              "release_mbid": "aea1932d-281d-4bb0-a61e-7a21a4b74619",
+              "release_name": "Jack In The Box",
+              "track_name": "MORE"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 2587,
+              "recording_mbid": "d43818c5-dc4f-4f1d-aee2-87fc586cf4bb",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with Jung Kook (acoustic lofi remix)"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "Jung Kook, Latto",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 2516,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Seven (feat. Latto)",
+              "track_name": "Seven (feat. Latto)"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 2500,
+              "recording_mbid": "b01a5c19-9117-4247-b046-434b8abab445",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Heaven"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 44689911194,
+              "caa_release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "listen_count": 2427,
+              "recording_mbid": "9a45b19d-4978-4692-b286-5d9b1f4e20a2",
+              "release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "release_name": "Muse",
+              "track_name": "Be Mine"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 2425,
+              "recording_mbid": "51d70ab9-bf1b-4872-be50-5956655b6145",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Somebody"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 25495089714,
+              "caa_release_mbid": "f718b3b6-5530-45f3-9c04-3583dd4951b6",
+              "listen_count": 2422,
+              "recording_mbid": "902be3e7-5631-4871-ac6a-5a45b30bf1ce",
+              "release_mbid": "f718b3b6-5530-45f3-9c04-3583dd4951b6",
+              "release_name": "MAP OF THE SOUL : 7",
+              "track_name": "Intro : Persona"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 35154043420,
+              "caa_release_mbid": "893d886c-a5c5-4904-8e8a-1769f535ba2a",
+              "listen_count": 2413,
+              "recording_mbid": "535500b8-8d11-4a8a-ac88-72da6d3069f0",
+              "release_mbid": "893d886c-a5c5-4904-8e8a-1769f535ba2a",
+              "release_name": "Set Me Free Pt.2",
+              "track_name": "Set Me Free Pt.2"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 8114477155,
+              "caa_release_mbid": "0148d084-44bb-4daf-87d7-7d09cc6ae782",
+              "listen_count": 2398,
+              "recording_mbid": "283bbb04-a6f5-42ca-8dd3-3ef7405e73b8",
+              "release_mbid": "0148d084-44bb-4daf-87d7-7d09cc6ae782",
+              "release_name": "DARK&WILD",
+              "track_name": "Danger"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 20759834301,
+              "caa_release_mbid": "0e791714-b3e3-4daf-bb00-ac1926597cd7",
+              "listen_count": 2395,
+              "recording_mbid": "425ca92f-0db9-4c9a-806c-54ea4cd88613",
+              "release_mbid": "bfd070c3-40fe-4f7e-a400-e4f4e7aac3c3",
+              "release_name": "LOVE YOURSELF 結 ‘Answer’",
+              "track_name": "Euphoria"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 2382,
+              "recording_mbid": "bb5fc7c3-f05f-4608-bb20-947e7e69ac59",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Groin"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616",
+                "979cd38d-a2f9-4f52-81aa-bbf276512f88"
+              ],
+              "artist_name": "Agust D feat. DJ Friz",
+              "caa_id": 16415380925,
+              "caa_release_mbid": "e2b55f96-2b14-466c-ac54-be4c146ec59f",
+              "listen_count": 2348,
+              "recording_mbid": "25986edb-cebf-4e19-bc49-131dfd7d1eed",
+              "release_mbid": "e2b55f96-2b14-466c-ac54-be4c146ec59f",
+              "release_name": "Agust D",
+              "track_name": "Intro ; Dt sugA"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 20759834301,
+              "caa_release_mbid": "0e791714-b3e3-4daf-bb00-ac1926597cd7",
+              "listen_count": 2341,
+              "recording_mbid": "057fb67c-9aa9-405d-9bc0-0d14cf9ca3e0",
+              "release_mbid": "bfd070c3-40fe-4f7e-a400-e4f4e7aac3c3",
+              "release_name": "LOVE YOURSELF 結 ‘Answer’",
+              "track_name": "IDOL"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 21643820338,
+              "caa_release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "listen_count": 2314,
+              "recording_mbid": "5f875c6f-2b40-482d-b9cf-e3cb76392ec4",
+              "release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "release_name": "mono.",
+              "track_name": "forever rain"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 2302,
+              "recording_mbid": "24ba3311-e337-46de-a778-13c490cf2f3d",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Hate You"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 29404556284,
+              "caa_release_mbid": "8e92c1d9-d77c-4110-84d6-5928bc8b752b",
+              "listen_count": 2298,
+              "recording_mbid": "e139bd8d-410c-41c1-967c-a30ee3b444e8",
+              "release_mbid": "1cd838e8-d4f6-4a2f-9c68-2611bf7fee20",
+              "release_name": "Butter",
+              "track_name": "Butter"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "Fall Out Boy",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 2272,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "ACES",
+              "track_name": "ACES"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9",
+                "bbe3ca80-7fb3-4a7f-acef-071606af0d3d"
+              ],
+              "artist_name": "RM & DOMi & JD BECK",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 2254,
+              "recording_mbid": "581bed52-fc75-4d96-ac31-6bbd8131ac17",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "? (interlude)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 29404556284,
+              "caa_release_mbid": "8e92c1d9-d77c-4110-84d6-5928bc8b752b",
+              "listen_count": 2228,
+              "recording_mbid": "25470481-3b01-4375-874e-1c6202cf4300",
+              "release_mbid": "1cd838e8-d4f6-4a2f-9c68-2611bf7fee20",
+              "release_name": "Butter",
+              "track_name": "Permission to Dance"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 36086167703,
+              "caa_release_mbid": "86548496-4299-4cd2-90e9-99d6f9b90372",
+              "listen_count": 2165,
+              "recording_mbid": "21ca6993-c499-408b-babe-1ca6d370cfe3",
+              "release_mbid": "86548496-4299-4cd2-90e9-99d6f9b90372",
+              "release_name": "Still With You",
+              "track_name": "Still With You"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 21643820338,
+              "caa_release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "listen_count": 2133,
+              "recording_mbid": "e1d686bb-9e8a-41b2-8242-e85022c40b8b",
+              "release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "release_name": "mono.",
+              "track_name": "moonchild"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 21643820338,
+              "caa_release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "listen_count": 2114,
+              "recording_mbid": "f86842b2-8f37-471d-b340-05fb92965ade",
+              "release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "release_name": "mono.",
+              "track_name": "seoul"
+            }
+          ],
+          "to_ts": 1794787200,
+          "total_recording_count": 3158880
+        }
+      }
+    },
+    {
+      "kind": "recording",
+      "params": {
+        "range": "month",
+        "count": 100,
+        "offset": 0
+      },
+      "url": "https://api.listenbrainz.org/1/stats/sitewide/recordings?range=month&count=100&offset=0",
+      "retrieved_utc": "2026-11-23T09:37:08.073467+00:00",
+      "response": {
+        "payload": {
+          "count": 100,
+          "from_ts": 1790812800,
+          "last_updated": 1795361725,
+          "offset": 0,
+          "range": "month",
+          "recordings": [
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 291140,
+              "recording_mbid": "6f33dc05-cdc0-4a2f-8039-e8fed082eec6",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "SWIM"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 249191,
+              "recording_mbid": "98faaa53-eb11-4a49-9b69-33262055efb7",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "NORMAL"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 248743,
+              "recording_mbid": "6f33dc05-cdc0-4a2f-8039-e8fed082eec6",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "SWIM"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 216764,
+              "recording_mbid": "53b9351d-c7af-4755-9f16-5549bb91d125",
+              "release_mbid": "efb0cfe1-ac49-449d-bbe2-2121cac844d8",
+              "release_name": "ARIRANG",
+              "track_name": "Come Over"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 205775,
+              "recording_mbid": "98faaa53-eb11-4a49-9b69-33262055efb7",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "NORMAL"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 203772,
+              "recording_mbid": "1d6222e0-77eb-4047-b4fb-045a0c5636d3",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "2.0"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 201719,
+              "recording_mbid": "6dfdfc61-89ff-451a-a5e9-5319065beae7",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Body to Body"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 201706,
+              "recording_mbid": "a045f252-ea1a-42c3-b7a5-f69979e39394",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Hooligan"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 200745,
+              "recording_mbid": "370cb956-910e-4fde-87b4-fdce053168e9",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Aliens"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 198221,
+              "recording_mbid": "24909119-fb10-416b-b8d4-fd9016f75033",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Into the Sun"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 197404,
+              "recording_mbid": "802e86e2-5da4-40c5-a265-933eb64d864b",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "FYA"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 195916,
+              "recording_mbid": "7bdd2fd6-e7ea-4926-8af9-6ebfcca06adc",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "they don’t know ’bout us"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 195631,
+              "recording_mbid": "b9462ebb-1d6d-4477-a12b-402c0b65b206",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Merry Go Round"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 194589,
+              "recording_mbid": "da0221e5-7c96-4c23-8295-4855d91d4085",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Like Animals"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 193250,
+              "recording_mbid": "b4ae8f7c-14ea-4882-81e2-6e35fd6de44f",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "One More Night"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 192234,
+              "recording_mbid": "2ce03059-d0a9-4b10-bec6-de779d6f5fe9",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Please"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 182584,
+              "recording_mbid": "7cac948e-4228-4799-9c8b-e9df276639f1",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "No. 29"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "RM, youjeen",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 165467,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Indigo",
+              "track_name": "Wild Flower (with youjeen)"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 35452959606,
+              "caa_release_mbid": "79d732ee-bdad-4d2e-a93c-c98431bbaa64",
+              "listen_count": 165213,
+              "recording_mbid": "079a54bb-1a59-4e40-8456-7695b644d059",
+              "release_mbid": "a44bdae7-959e-4f9f-820d-3358021793db",
+              "release_name": "D‐DAY",
+              "track_name": "해금"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 155334,
+              "recording_mbid": "53b9351d-c7af-4755-9f16-5549bb91d125",
+              "release_mbid": "efb0cfe1-ac49-449d-bbe2-2121cac844d8",
+              "release_name": "ARIRANG",
+              "track_name": "Come Over"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 118772,
+              "recording_mbid": "a045f252-ea1a-42c3-b7a5-f69979e39394",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Hooligan"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 118420,
+              "recording_mbid": "6dfdfc61-89ff-451a-a5e9-5319065beae7",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Body to Body"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 118263,
+              "recording_mbid": "1d6222e0-77eb-4047-b4fb-045a0c5636d3",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "2.0"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 117534,
+              "recording_mbid": "370cb956-910e-4fde-87b4-fdce053168e9",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Aliens"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 113564,
+              "recording_mbid": "802e86e2-5da4-40c5-a265-933eb64d864b",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "FYA"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 112609,
+              "recording_mbid": "24909119-fb10-416b-b8d4-fd9016f75033",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Into the Sun"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 111716,
+              "recording_mbid": "b9462ebb-1d6d-4477-a12b-402c0b65b206",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Merry Go Round"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 111443,
+              "recording_mbid": "da0221e5-7c96-4c23-8295-4855d91d4085",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Like Animals"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 111125,
+              "recording_mbid": "b4ae8f7c-14ea-4882-81e2-6e35fd6de44f",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "One More Night"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 111041,
+              "recording_mbid": "7bdd2fd6-e7ea-4926-8af9-6ebfcca06adc",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "they don’t know ’bout us"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 110065,
+              "recording_mbid": "7cac948e-4228-4799-9c8b-e9df276639f1",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "No. 29"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 109951,
+              "recording_mbid": "2ce03059-d0a9-4b10-bec6-de779d6f5fe9",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "Please"
+            },
+            {
+              "artist_mbids": [
+                "b3977da4-f899-4328-921b-ecc599a5618a",
+                "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2"
+              ],
+              "artist_name": "j-hope feat. GloRilla",
+              "caa_id": 42227057819,
+              "caa_release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "listen_count": 92842,
+              "recording_mbid": "e4ea9c7a-9936-400b-a7cd-d01163ec5e17",
+              "release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "release_name": "Killin’ It Girl",
+              "track_name": "Killin’ It Girl"
+            },
+            {
+              "artist_mbids": [
+                "09720eec-3871-49d5-932d-eb7542768cd3"
+              ],
+              "artist_name": "Jin",
+              "caa_id": 41985751334,
+              "caa_release_mbid": "21282f34-eb18-402b-b9e7-e125a6c94c51",
+              "listen_count": 89919,
+              "recording_mbid": "b9475022-5631-4574-a5bb-24e271a922e0",
+              "release_mbid": "a9345007-05fa-4b4b-a437-dab041cb1f95",
+              "release_name": "Echo",
+              "track_name": "Don’t Say You Love Me"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "j-hope, GloRilla",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 84773,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Killin' It Girl (feat. GloRilla)",
+              "track_name": "Killin' It Girl (feat. GloRilla)"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 44689911194,
+              "caa_release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "listen_count": 83731,
+              "recording_mbid": "ef795484-964c-48db-adff-25295fd3330d",
+              "release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "release_name": "Muse",
+              "track_name": "Who"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "RM",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 83584,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Indigo",
+              "track_name": "Wild Flower (with youjeen)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 25495089714,
+              "caa_release_mbid": "f718b3b6-5530-45f3-9c04-3583dd4951b6",
+              "listen_count": 80945,
+              "recording_mbid": "61fb1575-d67b-4a0b-bf3a-9ad82fcc5e2f",
+              "release_mbid": "f718b3b6-5530-45f3-9c04-3583dd4951b6",
+              "release_name": "MAP OF THE SOUL : 7",
+              "track_name": "Black Swan"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 35452891861,
+              "caa_release_mbid": "c9f9dcf6-d6da-433e-87a4-182620eb4208",
+              "listen_count": 72352,
+              "recording_mbid": "079a54bb-1a59-4e40-8456-7695b644d059",
+              "release_mbid": "a44bdae7-959e-4f9f-820d-3358021793db",
+              "release_name": "D‐DAY",
+              "track_name": "해금"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649396012,
+              "caa_release_mbid": "20af35dd-dda2-47de-8ea5-78211c0dfe9c",
+              "listen_count": 61793,
+              "recording_mbid": "ee539458-1b54-4cef-9a9a-95186094465a",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "SWIM"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 14867645927,
+              "caa_release_mbid": "394640fb-6f96-4f07-82d2-3639ddb84104",
+              "listen_count": 58575,
+              "recording_mbid": "cdadee16-02ff-41cc-95a3-1fe239755bea",
+              "release_mbid": "394640fb-6f96-4f07-82d2-3639ddb84104",
+              "release_name": "WINGS",
+              "track_name": "Am I Wrong"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 8114477155,
+              "caa_release_mbid": "0148d084-44bb-4daf-87d7-7d09cc6ae782",
+              "listen_count": 57650,
+              "recording_mbid": "c35739f4-c76c-4422-a79c-4c5ab785e15f",
+              "release_mbid": "0148d084-44bb-4daf-87d7-7d09cc6ae782",
+              "release_name": "DARK&WILD",
+              "track_name": "Let Me Know"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+                "355cc194-b8db-4af2-8678-c7ad54213f4b"
+              ],
+              "artist_name": "Jung Kook feat. Latto",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 57251,
+              "recording_mbid": "fa417fc3-3a37-4fad-b61e-cf76f8b23954",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Seven"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 49499,
+              "recording_mbid": "4a89a693-a5a7-4348-9cf6-718aad1667fb",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Standing Next to You"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12",
+                "e941e097-0f9e-496d-a381-dd74a953682c"
+              ],
+              "artist_name": "V with Park Hyo Shin",
+              "caa_id": 40534277936,
+              "caa_release_mbid": "c77702bc-4910-4a84-bd70-0f05fa04513d",
+              "listen_count": 47757,
+              "recording_mbid": "92a78270-f0ac-4182-bff1-89ef1e9fad48",
+              "release_mbid": "de94a3d5-21d8-4edb-9c47-bba191fcd4df",
+              "release_name": "Winter Ahead",
+              "track_name": "Winter Ahead"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 45677625719,
+              "caa_release_mbid": "c5910c91-93e4-4c36-9c68-9aafcca611b2",
+              "listen_count": 41598,
+              "recording_mbid": "714d9836-57a3-4974-ae17-048db59d89dd",
+              "release_mbid": "542beea5-c2ce-4d2e-a9d3-0cff4b480467",
+              "release_name": "NORMAL",
+              "track_name": "NORMAL (Korean ver.)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44667477072,
+              "caa_release_mbid": "5754c361-579f-44e2-ac61-cac6be39d889",
+              "listen_count": 36752,
+              "recording_mbid": "9e4f0aff-0c12-4a94-bc32-2c67dafeaff4",
+              "release_mbid": "5754c361-579f-44e2-ac61-cac6be39d889",
+              "release_name": "SWIM",
+              "track_name": "SWIM (instrumental)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44649429843,
+              "caa_release_mbid": "2f9b427d-cc6e-4465-9f70-9d2109381db0",
+              "listen_count": 36192,
+              "recording_mbid": "ee539458-1b54-4cef-9a9a-95186094465a",
+              "release_mbid": "bfa4553e-fa39-44b2-b17e-14f2875d352f",
+              "release_name": "ARIRANG",
+              "track_name": "SWIM"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+                "355cc194-b8db-4af2-8678-c7ad54213f4b"
+              ],
+              "artist_name": "Jung Kook feat. Latto",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 35848,
+              "recording_mbid": "4f89960a-1fc9-48d5-aafb-e164fff0348d",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Seven"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 17820984530,
+              "caa_release_mbid": "5f47c9ae-b213-43c3-9a32-2f656a57dc4b",
+              "listen_count": 33615,
+              "recording_mbid": "4e7bfe28-623f-4123-b688-e55ef346b8fe",
+              "release_mbid": "e9abf180-ff60-41ef-8020-3a7e84e94444",
+              "release_name": "LOVE YOURSELF 承 ‘Her’",
+              "track_name": "DNA"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 33386,
+              "recording_mbid": "c73941d9-7ac1-486d-bd88-3d3f8e944a7d",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "LOST!"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 32037,
+              "recording_mbid": "714d9836-57a3-4974-ae17-048db59d89dd",
+              "release_mbid": null,
+              "release_name": null,
+              "track_name": "NORMAL (Korean ver.)"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "V, Park Hyo Shin",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 30139,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Winter Ahead (with PARK HYO SHIN)",
+              "track_name": "Winter Ahead (with PARK HYO SHIN)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 12132829590,
+              "caa_release_mbid": "378970be-78c4-4f57-8af5-66a5fdcbbae0",
+              "listen_count": 28785,
+              "recording_mbid": "22d90ef6-04dc-4ab6-9fd5-5ee8fa52e102",
+              "release_mbid": "378970be-78c4-4f57-8af5-66a5fdcbbae0",
+              "release_name": "화양연화 pt.2",
+              "track_name": "RUN"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 38301349810,
+              "caa_release_mbid": "9dadf02c-49bc-4701-9fa0-6009ef171fc7",
+              "listen_count": 28767,
+              "recording_mbid": "54b1c31a-e936-4a1c-8254-bd4f1a6ab6ae",
+              "release_mbid": "9dadf02c-49bc-4701-9fa0-6009ef171fc7",
+              "release_name": "FRI(END)S",
+              "track_name": "FRI(END)S"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 35154043420,
+              "caa_release_mbid": "893d886c-a5c5-4904-8e8a-1769f535ba2a",
+              "listen_count": 28039,
+              "recording_mbid": "535500b8-8d11-4a8a-ac88-72da6d3069f0",
+              "release_mbid": "893d886c-a5c5-4904-8e8a-1769f535ba2a",
+              "release_name": "Set Me Free Pt.2",
+              "track_name": "Set Me Free Pt.2"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 28978934555,
+              "caa_release_mbid": "c7dfd29b-2429-473a-924b-49e403f290cc",
+              "listen_count": 27835,
+              "recording_mbid": "5b082713-242e-41be-964a-f8917e2a2ee4",
+              "release_mbid": "c7dfd29b-2429-473a-924b-49e403f290cc",
+              "release_name": "Film out",
+              "track_name": "Film out"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+                "134cb0bc-06fa-42f7-8078-b0c858349975"
+              ],
+              "artist_name": "Jung Kook feat. Jack Harlow",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 27686,
+              "recording_mbid": "92a2bfc3-a633-4d7f-b496-f81b0fe0071d",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "3D"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 27614,
+              "recording_mbid": "4b9a186c-68ec-4207-86df-32f9e020707c",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with SUGA (melodic techno remix)"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 26910,
+              "recording_mbid": "3d651fa9-dbd2-447d-aef6-37c8cecc8ab8",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Yes or No"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 28321992441,
+              "caa_release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "listen_count": 26133,
+              "recording_mbid": "6bd15827-5df8-4818-9514-6a93b22741cf",
+              "release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "release_name": "D-2",
+              "track_name": "Daechwita"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 36423242196,
+              "caa_release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "listen_count": 25675,
+              "recording_mbid": "5d546ff3-79b4-4694-ba60-bb2da19997f3",
+              "release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "release_name": "Layover",
+              "track_name": "Love Me Again"
+            },
+            {
+              "artist_mbids": [
+                "b3977da4-f899-4328-921b-ecc599a5618a"
+              ],
+              "artist_name": "j-hope",
+              "caa_id": 42227057819,
+              "caa_release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "listen_count": 25297,
+              "recording_mbid": "6f117449-b642-42f9-8dfe-89bd2e57b682",
+              "release_mbid": "543c8424-aae0-4e3f-ad2a-65590520aa38",
+              "release_name": "Killin’ It Girl",
+              "track_name": "Killin’ It Girl (solo version)"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 35223543612,
+              "caa_release_mbid": "3676f696-c6d5-49f2-ab52-d8ba6691f508",
+              "listen_count": 24690,
+              "recording_mbid": "2070aff4-5a79-4772-b08e-254a0832eb64",
+              "release_mbid": "3676f696-c6d5-49f2-ab52-d8ba6691f508",
+              "release_name": "Like Crazy",
+              "track_name": "Like Crazy"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 27883008773,
+              "caa_release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "listen_count": 24535,
+              "recording_mbid": "7e36230c-fc8b-44f7-ad0b-6924bf34dde0",
+              "release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "release_name": "BE",
+              "track_name": "Life Goes On"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 20439220966,
+              "caa_release_mbid": "8618145b-6ae4-4f0a-ae59-4a4660a72abd",
+              "listen_count": 24163,
+              "recording_mbid": "27e95178-49ac-47a1-8b4c-540c77982680",
+              "release_mbid": "8618145b-6ae4-4f0a-ae59-4a4660a72abd",
+              "release_name": "LOVE YOURSELF 轉 ‘Tear’",
+              "track_name": "FAKE LOVE"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "j-hope, GloRilla",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 23087,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Killin' It Girl (feat. GloRilla) (Remixes)",
+              "track_name": "Killin' It Girl (feat. GloRilla)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 22577,
+              "recording_mbid": "7c4df676-1e54-4074-aff2-64fe92a0e4b2",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with RM (chill hip hop remix)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 42560793116,
+              "caa_release_mbid": "62e3b996-8bae-442e-a60b-25b45d39762e",
+              "listen_count": 22566,
+              "recording_mbid": "38f1f272-d7e8-4ae7-93ff-3e574eeef484",
+              "release_mbid": "62e3b996-8bae-442e-a60b-25b45d39762e",
+              "release_name": "PERMISSION TO DANCE ON STAGE - LIVE",
+              "track_name": "Blood Sweat & Tears - Live"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 36406571978,
+              "caa_release_mbid": "3c113a63-8cbd-4220-ae55-45ea0fdb6e47",
+              "listen_count": 22411,
+              "recording_mbid": "67f1e3f1-9770-45cd-a17f-45b06c575940",
+              "release_mbid": "3c113a63-8cbd-4220-ae55-45ea0fdb6e47",
+              "release_name": "Slow Dancing",
+              "track_name": "Slow Dancing"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "Jung Kook, Latto",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 21309,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "GOLDEN",
+              "track_name": "Seven (feat. Latto) (Explicit Ver.)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 27883008773,
+              "caa_release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "listen_count": 19980,
+              "recording_mbid": "db965fe4-9e56-4fc7-837b-b2a0dcdb3206",
+              "release_mbid": "4adde75f-ef2f-4195-a8da-fb65c9647dd8",
+              "release_name": "BE",
+              "track_name": "Dynamite"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 44689911194,
+              "caa_release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "listen_count": 19365,
+              "recording_mbid": "9a45b19d-4978-4692-b286-5d9b1f4e20a2",
+              "release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "release_name": "Muse",
+              "track_name": "Be Mine"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 19002,
+              "recording_mbid": "8c5b0a52-f04c-4604-aae9-652ce9a9bbfa",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with j‐hope (afrobeat remix)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 18965,
+              "recording_mbid": "2d5da8a7-aa96-4af5-b4b2-a4fd6746842c",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with V (electronic remix)"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 20759834301,
+              "caa_release_mbid": "0e791714-b3e3-4daf-bb00-ac1926597cd7",
+              "listen_count": 18181,
+              "recording_mbid": "425ca92f-0db9-4c9a-806c-54ea4cd88613",
+              "release_mbid": "bfd070c3-40fe-4f7e-a400-e4f4e7aac3c3",
+              "release_name": "LOVE YOURSELF 結 ‘Answer’",
+              "track_name": "Euphoria"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 18085,
+              "recording_mbid": "e28e391e-b71f-4fc2-bc5c-08d58a9f7a36",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with Jin (alternative rock remix)"
+            },
+            {
+              "artist_mbids": [
+                "83096042-3785-481e-8843-dee69f1aad12"
+              ],
+              "artist_name": "V",
+              "caa_id": 36423242196,
+              "caa_release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "listen_count": 17740,
+              "recording_mbid": "650f3319-7331-48f3-b50f-828a354cfcc2",
+              "release_mbid": "6657ff15-edaf-4a4f-ae16-174c97f281b7",
+              "release_name": "Layover",
+              "track_name": "Rainy Days"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 17715,
+              "recording_mbid": "24ba3311-e337-46de-a778-13c490cf2f3d",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Hate You"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 21643820338,
+              "caa_release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "listen_count": 17552,
+              "recording_mbid": "635092e8-c6a8-4ff7-851f-a5f5f88f1160",
+              "release_mbid": "8712da57-f453-45d2-baae-f1e14c5fcdbc",
+              "release_name": "mono.",
+              "track_name": "tokyo"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 17510,
+              "recording_mbid": "51d70ab9-bf1b-4872-be50-5956655b6145",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Somebody"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 17492,
+              "recording_mbid": "d43818c5-dc4f-4f1d-aee2-87fc586cf4bb",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with Jung Kook (acoustic lofi remix)"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 35428423274,
+              "caa_release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "listen_count": 17486,
+              "recording_mbid": "62e87c65-723d-430d-9e12-4fc6a39cbc67",
+              "release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "release_name": "Indigo",
+              "track_name": "Lonely"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 44744292059,
+              "caa_release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "listen_count": 17447,
+              "recording_mbid": "6c92638f-2a96-4457-be45-8db077bc2d9c",
+              "release_mbid": "6c587909-53eb-478c-b7de-8a8773004699",
+              "release_name": "KEEP SWIMMING",
+              "track_name": "SWIM with Jimin (slow jam R&B remix)"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 36086167703,
+              "caa_release_mbid": "86548496-4299-4cd2-90e9-99d6f9b90372",
+              "listen_count": 17299,
+              "recording_mbid": "21ca6993-c499-408b-babe-1ca6d370cfe3",
+              "release_mbid": "86548496-4299-4cd2-90e9-99d6f9b90372",
+              "release_name": "Still With You",
+              "track_name": "Still With You"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 45677625719,
+              "caa_release_mbid": "c5910c91-93e4-4c36-9c68-9aafcca611b2",
+              "listen_count": 17176,
+              "recording_mbid": "017935ba-3241-455d-9747-1ffefe6b446d",
+              "release_mbid": "d65be279-416c-4b98-8688-1161a9b185ff",
+              "release_name": "NORMAL",
+              "track_name": "NORMAL (instrumental)"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 16944,
+              "recording_mbid": "6f6f19d4-64c0-4450-b487-3e0bacddf054",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Shot Glass of Tears"
+            },
+            {
+              "artist_mbids": [],
+              "artist_name": "j-hope",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 16727,
+              "recording_mbid": null,
+              "release_mbid": null,
+              "release_name": "Killin' It Girl (feat. GloRilla)",
+              "track_name": "Killin' It Girl (feat. GloRilla)"
+            },
+            {
+              "artist_mbids": [
+                "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec"
+              ],
+              "artist_name": "Jimin",
+              "caa_id": 44689911194,
+              "caa_release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "listen_count": 16570,
+              "recording_mbid": "44147ea1-e4fb-46c9-a470-3839bdc248d0",
+              "release_mbid": "486402d0-274f-474c-a33e-b08c2902bfd5",
+              "release_name": "Muse",
+              "track_name": "Rebirth (intro)"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 16544,
+              "recording_mbid": "e989ad03-585a-4ad8-aeb3-0a0d8c4620a9",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Come back to me"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 16459,
+              "recording_mbid": "602c5a16-5ede-439e-85e9-c22fa4c4e512",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Nuts"
+            },
+            {
+              "artist_mbids": [
+                "f09d2950-e3c6-47b2-b21c-2bad2cd3f616"
+              ],
+              "artist_name": "Agust D",
+              "caa_id": 28321992441,
+              "caa_release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "listen_count": 16322,
+              "recording_mbid": "059a2781-f733-467a-be36-769d810571af",
+              "release_mbid": "f4315147-efe5-4a65-bae2-b358fbb1d045",
+              "release_name": "D-2",
+              "track_name": "People"
+            },
+            {
+              "artist_mbids": [
+                "23c8056b-ee13-4cfc-a772-2f5292e35bb5"
+              ],
+              "artist_name": "Jung Kook",
+              "caa_id": 37168743086,
+              "caa_release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "listen_count": 16130,
+              "recording_mbid": "368c2a37-5bb2-42ee-bd34-a5761ca552fc",
+              "release_mbid": "0b926b4b-e10c-4dd3-aefd-ae351d77c804",
+              "release_name": "GOLDEN",
+              "track_name": "Too Sad to Dance"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 35428423274,
+              "caa_release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "listen_count": 15795,
+              "recording_mbid": "ed543bbf-0a07-4efa-8dda-2f34f4685559",
+              "release_mbid": "ff8d680b-2bec-4953-a409-688714f26d51",
+              "release_name": "Indigo",
+              "track_name": "Change pt.2"
+            },
+            {
+              "artist_mbids": [
+                "b3977da4-f899-4328-921b-ecc599a5618a"
+              ],
+              "artist_name": "j-hope",
+              "caa_id": 41531186651,
+              "caa_release_mbid": "384fbe5e-32d9-44ff-9d44-a39a88eed4f5",
+              "listen_count": 15711,
+              "recording_mbid": "aa644530-f78b-43fc-96fd-931734d523e5",
+              "release_mbid": "384fbe5e-32d9-44ff-9d44-a39a88eed4f5",
+              "release_name": "MONA LISA",
+              "track_name": "MONA LISA"
+            },
+            {
+              "artist_mbids": [
+                "09720eec-3871-49d5-932d-eb7542768cd3"
+              ],
+              "artist_name": "JIN",
+              "caa_id": 40415629394,
+              "caa_release_mbid": "c1aba893-f27f-4343-8129-c4348b57e5b5",
+              "listen_count": 15168,
+              "recording_mbid": "8bfa9e3c-88da-4d23-ae15-0afdec67b619",
+              "release_mbid": "96a7d8f6-6e58-4ef4-90c8-4c4bcaa821f5",
+              "release_name": "Happy",
+              "track_name": "Running Wild"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 29404556284,
+              "caa_release_mbid": "8e92c1d9-d77c-4110-84d6-5928bc8b752b",
+              "listen_count": 15144,
+              "recording_mbid": "25470481-3b01-4375-874e-1c6202cf4300",
+              "release_mbid": "1cd838e8-d4f6-4a2f-9c68-2611bf7fee20",
+              "release_name": "Butter",
+              "track_name": "Permission to Dance"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": null,
+              "caa_release_mbid": null,
+              "listen_count": 14601,
+              "recording_mbid": "96cbf133-1bb1-44b6-99c9-25feee685e1f",
+              "release_mbid": "e5d29be4-94bf-4706-b51d-587603ba3e78",
+              "release_name": "2019-04-13: Saturday Night Live, New York, NY, USA",
+              "track_name": "Boy With Luv"
+            },
+            {
+              "artist_mbids": [
+                "0d79fe8e-ba27-4859-bb8c-2f255f346853"
+              ],
+              "artist_name": "BTS",
+              "caa_id": 20759834301,
+              "caa_release_mbid": "0e791714-b3e3-4daf-bb00-ac1926597cd7",
+              "listen_count": 14582,
+              "recording_mbid": "057fb67c-9aa9-405d-9bc0-0d14cf9ca3e0",
+              "release_mbid": "bfd070c3-40fe-4f7e-a400-e4f4e7aac3c3",
+              "release_name": "LOVE YOURSELF 結 ‘Answer’",
+              "track_name": "IDOL"
+            },
+            {
+              "artist_mbids": [
+                "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9"
+              ],
+              "artist_name": "RM",
+              "caa_id": 40829916914,
+              "caa_release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "listen_count": 14502,
+              "recording_mbid": "cf657d3b-3706-4d03-b3b2-62286c7a3898",
+              "release_mbid": "7d440284-3622-4d45-ab49-2243de95dd3e",
+              "release_name": "Right Place, Wrong Person",
+              "track_name": "Right People, Wrong Place"
+            }
+          ],
+          "to_ts": 1793491200,
+          "total_recording_count": 7839638
+        }
+      }
+    }
+  ]
+}
